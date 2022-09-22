@@ -38,3 +38,31 @@ body {
     font-size: 12px;
   }
 }
+
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    overflow-x: auto;
+    height: 40px;
+    align-items: center;
+    letter-spacing: 1px;
+    position: sticky;
+    z-index: 2;
+}
+
+.navbar .navitem{
+    background-color: #b5111b;
+    font-size: 16px;  
+    font-family: inherit;
+    height: 90%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 10%;
+    margin-inline: 10px;
+}
+
