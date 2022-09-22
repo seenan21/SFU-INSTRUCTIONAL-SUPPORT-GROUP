@@ -1,0 +1,40 @@
+body {
+    
+}
+
+#topBanner {
+    margin-top: 0;
+    width: 100%;
+    height: 80px;
+    display: grid;
+    background-color: black;
+    grid-template-columns: 0.5fr 4.5fr ;
+}
+
+#topBanner div{
+   margin: 2px 2px 2px 2px;
+    overflow: hidden;
+    position: relative;
+}
+
+#topBanner .logo{
+    background: #b5111b;
+    min-width: 100px;
+}
+
+#topBanner .title{  /*Make this div a flex-box or a grid in the future, in case more things are added to title and it needs to be responsive*/
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    border: 2px groove black;
+    border-radius: 20px;
+    background: #c43f47;
+    padding-right: 15%;
+    font-size: 18px;
+}
+/* If the screen size is 600px wide or less, set the font-size of <div> to 12px */
+@media screen and (max-width: 600px) {
+  #topBanner .title {
+    font-size: 12px;
+  }
+}
