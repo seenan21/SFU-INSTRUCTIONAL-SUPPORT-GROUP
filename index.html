@@ -28,6 +28,7 @@
 
             <div class="title">
                     <h1>Instructional Support Group (ISG)</h1>
+                   
             </div>
 
             
@@ -38,23 +39,25 @@
 
             <!--<div class="home-button"><a><img src="images/home.png" height="15px">HOME</a></div>-->
             
+            <a href="#courseResources">
             <div class="navitem">
-                <div>Library</div>
+                <div>Course Resources</div>
             </div> 
+            </a>
 
+            <a href="#Library">
             <div class="navitem">
-                Course Resources    
+                Library  
             </div>
+            </a>
                 
         </div>
 
 
-        <div class ="heading"><h1> Course Resources</h1></div>
+        <div id ="courseResources" class ="heading"><h1> Course Resources</h1></div>
         <div class ="textarea">
             <p>We have compiled in this website a collection of past assignments, exams, practice exams and even extra relevant material that could be used for specific practice on some of the essential computing courses offered here at SFU.
                Just click on the course you seek resources for and you will be directed to all of the available material pertaining to that course. </p>
-
-
         </div> 
 
 
@@ -71,7 +74,7 @@
             </a>
             
 
-            <a href="/staticPageDraft/python101-6.html">
+            <a href="cmpt135resources.html">
             <div class="coursePreview">
                 <img src="images/cmpt135Box.PNG" alt="cmpt120" width="100%" height="200px">
                 <div class="courseTitle">
@@ -81,7 +84,7 @@
             </div>
             </a>    
 
-            <a href="/staticPageDraft/python101-6.html">
+            <a href="cmpt135resources.html">
             <div class="coursePreview">
                 <img src="images/cmpt135Box.PNG" alt="cmpt120" width="100%" height="200px">
                 <div class="courseTitle">
@@ -91,7 +94,7 @@
             </div>
             </a>  
 
-            <a href="/staticPageDraft/python101-6.html">
+            <a href="cmpt135resources.html">
             <div class="coursePreview">
                 <img src="images/cmpt135Box.PNG" alt="cmpt120" width="100%" height="200px">
                 <div class="courseTitle">
@@ -103,6 +106,22 @@
 
         
                 
+
+        </div>
+
+
+        <div id="Library" class ="heading"><h1> Library</h1></div>
+        <div class ="textarea">
+            <p>Do you have troubles finding the best free books and learning material out there? We have listed links to the best sites and books that would be beneficial for students who wish to learn different coding languages and
+                computing concepts. </p>
+        </div> 
+        <div class="textarea">
+            <p><strong>Python Textbooks:</strong></p>
+            <ul>
+            <li><a href="https://static.realpython.com/python-basics-sample-chapters.pdf">Python Basics: A Practical Introduction to Python 3</a></li>
+            <li><a href="https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf">Learning Python by Mark Lutz</a></li>
+            <li><a href="https://warin.ca/ressources/books/2019_Book_AdvancedGuideToPython3Programm.pdf">Advanced Guide to Python 3 Programming by John Hunt</a></li>
+            </ul>
 
         </div>
 
@@ -131,3 +150,19 @@
 
 
 </html>
+
+<script>
+    //Smooth scrolling
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+                    });
+                });
+            });
+
+
+
+
+</script>

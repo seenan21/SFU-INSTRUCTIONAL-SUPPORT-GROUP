@@ -1,9 +1,16 @@
 body {
     margin: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 background: rgb(0,0,0);
 background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 25%, rgba(0,0,0,1) 52%, rgba(43,43,43,1) 77%, rgba(0,0,0,1) 100%);
 }
+
+.navbar a{
+    text-decoration: none;
+    color: inherit;
+}
+
 #topBanner {
     margin-top: 0;
     width: 100%;
@@ -50,7 +57,8 @@ background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 25%, rgba
     height: 40px;
     align-items: center;
     letter-spacing: 1px;
-    position: sticky;
+    position: sticky;   
+    top: 0; 
     z-index: 2;
     border-color: #c43f47;
     border-width: 2px;
@@ -70,6 +78,9 @@ background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 25%, rgba
     border-radius: 10%;
     margin-inline: 10px;
 }
+.navbar .navitem:hover{
+    filter: brightness(125%);
+}
 
 .coursecatalog{
   display: flex;
@@ -80,6 +91,8 @@ background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 25%, rgba
   text-align: center;
   width: 90%;
   margin: auto;
+  margin-bottom: 100px;
+  margin-top: 10px;
 
 
 
@@ -89,8 +102,12 @@ background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 25%, rgba
     position: relative;
     width: 200px;
      border-color: #c43f47;
-    border-width: 2px;
+    border-width: 3px;
     border-style: solid;
+}
+
+.coursePreview:hover{
+    border-color: black ;
 }
 
 .courseTitle {
@@ -102,7 +119,7 @@ background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 25%, rgba
 }
 
 .heading{
-  margin-top: 10px;
+  margin-top: 50px;
   margin-bottom: 0px;
   background-color: #c43f47;
   color: white;
@@ -120,7 +137,14 @@ background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(43,43,43,1) 25%, rgba
     font-size: 18px;
     width: 75%;
     margin: auto;
+    margin-bottom: 5px;
    
     padding: 10px 10px 10px 10px;
 
+}
+
+.textarea a{
+    font-style: italic;
+    color: ghostwhite;
+    line-height: 1.75;
 }
