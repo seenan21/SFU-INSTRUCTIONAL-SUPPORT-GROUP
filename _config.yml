@@ -1,0 +1,15 @@
+remote_theme: just-the-docs/just-the-docs
+logo: "/images/sfulogo.png"
+footer_content: "Copyright &copy; 2022 SFU"
+
+
+
+
+
+
+
+callouts:
+  careful:
+    title: Careful
+    color: red
+
