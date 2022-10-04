@@ -7,14 +7,14 @@ has_children: false
 
 # Home
 
-This is some basic, sample markdown.
+This is some callouts:
 
 
 {: .careful }
 A paragraph...
 
-{: .important-title}
-Important title
+{: .important }
+Milk before Cereal
 
 {: .tip }
 > Ideas
