@@ -7,3 +7,5 @@ nav-order: 1
 ---
 
 # Assignment Help
+
+Help for some common obstacles faced by students when going through computing assignemtns.

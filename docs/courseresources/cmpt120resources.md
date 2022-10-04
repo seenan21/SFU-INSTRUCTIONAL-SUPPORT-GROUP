@@ -8,3 +8,5 @@ parent: Course Resources
 
 # CMPT 120
 
+Coming soon
+{: .label .label-yellow }
