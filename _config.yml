@@ -13,3 +13,7 @@ callouts:
     title: Careful
     color: red
 
+  important:
+    title: Important
+    color: purple
+

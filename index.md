@@ -13,6 +13,11 @@ This is some basic, sample markdown.
 {: .careful }
 A paragraph...
 
+{: .important-title}
+>Important title
+>
+>bruh
+
 
 ## Second Heading
 
