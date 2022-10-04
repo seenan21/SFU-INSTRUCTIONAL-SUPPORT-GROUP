@@ -10,4 +10,4 @@ has_children: true
 # Course Resources
 
 
-Here we have a collection of various resources specific to different CMPT courses offered at SFU.
+Explore our collection of various resources specific to different CMPT courses offered at SFU.
