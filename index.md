@@ -7,7 +7,21 @@ has_children: false
 
 # Home
 
-This is some callouts:
+
+![SFU COMPUTING SCIENCE BUILDING](/images/1463773966245.jpg)
+
+
+
+
+## SFU INSTRUCTIONAL SUPPORT GROUP
+
+
+
+
+
+
+
+This is some callouts we can use in the website:
 
 
 {: .careful }
@@ -33,15 +47,7 @@ Milk before Cereal
 
 ### Third Heading
 
- * Unordered lists, and:
-  1. One
-  1. Two
-  1. Three
- * More
 
-
-
-And **bold**, *italics*, and even *italics and later **bold***. Even ~~strikethrough~~. [A link](https://markdowntohtml.com) to somewhere.
 
 code highlighting:
 
@@ -53,8 +59,8 @@ function baz(s) {
 }
 ```
 
-Or inline code like `var foo = 'bar';`.
-image of bears
+inline code like `var foo = 'bar';`.
 
-![bears](http://placebear.com/200/200)
+
+
 
