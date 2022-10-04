@@ -5,15 +5,14 @@ nav_order: 1
 has_children: false
 ---
 
-# Home
 
+## SFU INSTRUCTIONAL SUPPORT GROUP
 
 ![SFU COMPUTING SCIENCE BUILDING](/images/1463773966245.jpg)
 
 
 
 
-## SFU INSTRUCTIONAL SUPPORT GROUP
 
 
 
