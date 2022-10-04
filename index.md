@@ -14,9 +14,9 @@ This is some basic, sample markdown.
 A paragraph...
 
 {: .important-title}
->Important title
->
->bruh
+Important title
+
+important
 
 
 ## Second Heading
