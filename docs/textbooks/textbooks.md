@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Textbooks
+nav_order: 99
 ---
 
 # Free Textbooks
