@@ -20,46 +20,5 @@ has_children: false
 
 
 
-This is some callouts we can use in the website:
-
-
-{: .careful }
-A paragraph...
-
-{: .important }
-Milk before Cereal
-
-{: .tip }
-> Ideas
->
-> Tips
-
-{: .new-title}
->The New Title
->
->New stuff
-
-
-
-
-## Second Heading
-
-### Third Heading
-
-
-
-code highlighting:
-
-```js
-var foo = 'bar';
-
-function baz(s) {
-   return foo + ':' + s;
-}
-```
-
-inline code like `var foo = 'bar';`.
-
-
 
 
