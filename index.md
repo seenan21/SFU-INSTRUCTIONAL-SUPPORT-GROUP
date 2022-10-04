@@ -18,8 +18,15 @@ Important title
 
 {: .tip }
 > Ideas
-
+>
 > Tips
+
+{: .new-title}
+>The New Title
+>
+>New stuff
+
+
 
 
 ## Second Heading
