@@ -17,3 +17,7 @@ callouts:
     title: Important
     color: purple
 
+  tip:
+    title: Tip
+    color: yellow
+

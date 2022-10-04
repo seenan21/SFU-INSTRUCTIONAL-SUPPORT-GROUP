@@ -16,7 +16,10 @@ A paragraph...
 {: .important-title}
 Important title
 
-important
+{: .tip }
+> Ideas
+
+> Tips
 
 
 ## Second Heading
@@ -44,8 +47,7 @@ function baz(s) {
 ```
 
 Or inline code like `var foo = 'bar';`.
-
-n image of bears
+image of bears
 
 ![bears](http://placebear.com/200/200)
 
