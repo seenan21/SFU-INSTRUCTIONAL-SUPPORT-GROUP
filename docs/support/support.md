@@ -9,22 +9,21 @@ has_children: false
 
 
 # Support
+{: .no_toc }
 
 Resources to help you setup coding environemnts, help with homework assignments and etc.
 
 
-# Navigation Structure
-{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
-# CSIL GUIDE
+# CSIL access
 
 ## Accessing CSIL labs
+{: .no_toc }
+
 SFU has Computer Labs accessible by all SFU computing students. CSIL are open to all students registered in a computing science (CMPT) course. Information and FAQs on CSIL can be accessed on the [CSIL webpage](http://www.sfu.ca/computing/about/support/csil.html)
 
 ***Quick Links***
@@ -76,7 +75,7 @@ In order to execute the code you've written in order to see if it works it must 
 
 # Submitting Files
 
-## How to compress files into a zipped folder:
+## How to compress files into a zipped folder
 
 Many courses' assignments require .zip files/folders containing all of the code and its dependencies to be handed over during submission.
 
