@@ -11,7 +11,8 @@ has_children: false
 # New Student Support
 {: .no_toc }
 
-### Resources to help newcoming computing science students utilize SFU CS resources, setup coding environemnts and submit coding assignments.
+##### Resources to help newcoming computing science students utilize SFU CS resources, setup coding environemnts and submit coding assignments.
+{: .no_toc }
 
 
 
@@ -74,6 +75,10 @@ In order to execute the code you've written in order to see if it works it must 
 
 4. Run the executable file/program: `./outputfile.exe `
 
+
+## Make Files
+Coming soon
+{: .label .label-yellow }
 
 # Submitting Files
 
