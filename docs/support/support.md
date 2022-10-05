@@ -11,7 +11,7 @@ has_children: false
 # New Student Support
 {: .no_toc }
 
-##### Resources to help newcoming computing science students utilize SFU CS resources, setup coding environemnts and submit coding assignments.
+###### Resources to help newcoming computing science students utilize SFU CS resources, setup coding environments and submit coding assignments.
 {: .no_toc }
 
 
