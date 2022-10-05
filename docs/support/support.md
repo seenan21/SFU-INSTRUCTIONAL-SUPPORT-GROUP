@@ -26,6 +26,28 @@ SFU has Computer Labs accessible by all SFU computing students. CSIL are open to
 
 
 
+# Compiling/Debugging programs
+
+In order to execute the code you've written in order to see if it works it must first be compiled from human readable code to machine language so that computers may execute them. If there are errors in your compilation of the code, you may also need to debug it to pinpoint the errors.
+
+## Compiling Python Programs
+
+1. Set up your environment
+    - Open the terminal and check that you have python installed and check which version you have. Enter the following command: 'python --version'
+    - If you need to [download python](https://www.python.org/downloads/), you can download the latest version from the official Python website. The website also contains updated documentation, guides, source code, etc.  
+    - Install python. Installation guide for [Linux/Unix](https://docs.python.org/3/using/unix.html), [Windows](https://docs.python.org/3/using/windows.html), and [MacOS](https://docs.python.org/3/using/mac.html) 
+
+| Linux/Unix  | Python should be pre-installed on your machine. If it isn’t you can download and after downloading and extracting the files, run the following commands in the respective directory: 
+'''./configure 
+make 
+make altinstall ''' |
+| Windows  | Follow the Python installation wizard instructions upon downloading the Python Windows installer version you need. After starting the installer you can select “Install Now” to install the default settings.    |
+| MacOS   | Macs come with Python pre-installed. If the version on your Mac is outdated, you can download and install the version you need by using the Python installation wizard.         |
+
+2. In interactive mode programming you can invoke the python interpreter by entering:  python. But by using your editor of choice you can write a python script ( “.py” file) and run it by entering the following in the terminal: python MyScript.py. This will compile and execute your script. You can also make an executable file using the chmod +x command. Running chmod +x MyScript.py makes the file “MyScript.py” executable and it can be compiled by simply entering: ./MyScript.py 
+
+3. If you are using an IDE, you can run and debug the script inside the IDE. 
+
 
 # Submitting Files
 
