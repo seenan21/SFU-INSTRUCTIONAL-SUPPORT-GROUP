@@ -22,6 +22,5 @@ Coming soon
 
 ## Course Textbooks and Reading Material
 
-Coming soon
-{: .label .label-yellow }
+### [Link to Python Textbooks](/docs/textbooks/textbooks.html#python-textbooks)
 
