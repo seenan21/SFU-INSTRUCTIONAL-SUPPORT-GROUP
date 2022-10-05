@@ -37,6 +37,10 @@ In order to execute the code you've written in order to see if it works it must 
     - If you need to [download python](https://www.python.org/downloads/), you can download the latest version from the official Python website. The website also contains updated documentation, guides, source code, etc.  
     - Install python. Installation guide for [Linux/Unix](https://docs.python.org/3/using/unix.html), [Windows](https://docs.python.org/3/using/windows.html), and [MacOS](https://docs.python.org/3/using/mac.html) 
 
+| Linux/Unix| table |
+| Windows | lines|
+| MacOS   |  bruh|
+
 | Linux/Unix  | Python should be pre-installed on your machine. If it isn’t you can download and after downloading and extracting the files, run the following commands in the respective directory: 
 '''./configure 
 make 
