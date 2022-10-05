@@ -8,13 +8,15 @@ has_children: false
 
 
 
-# Support
+# New Student Support
 {: .no_toc }
 
-Resources to help you setup coding environemnts, help with homework assignments and etc.
+### Resources to help newcoming computing science students utilize SFU CS resources, setup coding environemnts and submit coding assignments.
 
 
 
+## Table of contents
+{: .no_toc .text-delta }
 
 - TOC
 {:toc}
@@ -57,7 +59,7 @@ In order to execute the code you've written in order to see if it works it must 
 
 ## Compiling C/C++ Programs
 
-1. Set up your enviornment
+1. Set up your environment
     - MacOS and Linux have C++ pre-installed
     - For Windows, you will need to download and install the GCC (GNU Compiler Collection) which is used to compile C/C++. Install the GCC compiler using the following commands in the terminal: 
         1. Get information on updated versions of packages: `sudo apt-get update`
