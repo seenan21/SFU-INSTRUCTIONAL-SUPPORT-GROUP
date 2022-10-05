@@ -52,6 +52,23 @@ make altinstall ''' |
 
 3. If you are using an IDE, you can run and debug the script inside the IDE. 
 
+## Compiling C/C++ Programs
+
+1. Set up your enviornment
+    - MacOS and Linux have C++ pre-installed
+    - For Windows, you will need to download and install the GCC (GNU Compiler Collection) which is used to compile C/C++. Install the GCC compiler using the following commands in the terminal: 
+        1. Get information on updated versions of packages: `sudo apt-get update`
+        2. Enter the admin password 
+        3. Install packages: `sudo apt install build-essential`
+        4. Verify installation by checking the C++ version: `g++ --version `
+        5. Verify installation by checking the C version: `gcc --version `
+    
+2. Once you have written your script, open the terminal in the directory with the script (the cd command can be used to change file paths or you can use your file explorer to go to the folder with the script and then open the terminal from the file) 
+
+3. Use the following command to compile your file: `g++ sourcefile.cpp -o outputfile.exe `
+
+4. Run the executable file/program: `./outputfile.exe `
+
 
 # Submitting Files
 
@@ -66,6 +83,4 @@ Many courses' assignments require .zip files/folders containing all of the code 
 - [Zipping and unzipping on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac#:~:text=Compress%20a%20file%20or%20folder,zip%20extension.)
 
 
-#### Test
-
-##### test
+`
