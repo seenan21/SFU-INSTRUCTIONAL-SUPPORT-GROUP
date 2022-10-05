@@ -22,5 +22,5 @@ Coming soon
 
 ## Course Textbooks and Reading Material
 
-### [Link to Python Textbooks](/docs/textbooks/textbooks.html#python-textbooks)
+### [Link to Python Textbooks](../docs/textbooks/textbooks.html#python-textbooks)
 
