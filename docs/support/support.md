@@ -22,6 +22,8 @@ has_children: false
 - TOC
 {:toc}
 
+
+<br>
 # CSIL access
 
 ## Accessing CSIL labs
@@ -38,6 +40,8 @@ SFU has Computer Labs accessible by all SFU computing students. CSIL are open to
 
 *TIP: The SFU Snap app has a room location feature and can be used to locate CSIL. View the official SFU app suite [here](http://www.sfu.ca/apps.html).*
 
+
+<br>
 # IDEs & Text/Code Editors  
 
 An IDE (Integrated Development Environment) is an application where you can write code and then compile, execute, and debug your code. A text/code editor on the other hand only provides code/script writing and editing features only. If you write a script with a code editor, you will need to compile/execute it using the terminal or open it in an IDE. IDEs contain programming libraries and integrated tools for programmers to use during the programming process. 
@@ -54,7 +58,7 @@ Both IDEs and text editors are advantageous for different purposes. The benefit 
 
 
 
-
+<br>
 # Compiling/Debugging programs
 
 In order to execute the code you've written in order to see if it works it must first be compiled from human readable code to machine language so that computers may execute them. If there are errors in your compilation of the code, you may also need to debug it to pinpoint the errors.
@@ -95,6 +99,9 @@ In order to execute the code you've written in order to see if it works it must 
 Coming soon
 {: .label .label-yellow }
 
+
+
+<br>
 # Submitting Files
 
 ## How to compress files into a zipped folder
