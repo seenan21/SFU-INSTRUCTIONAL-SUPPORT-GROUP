@@ -9,6 +9,12 @@ parent: Course Resources
 # CMPT 120
 
 
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ## Past exams
 
 - [Midterm 1 Review Spring 2018](/docs/courseresources/CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf)

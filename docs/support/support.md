@@ -38,6 +38,21 @@ SFU has Computer Labs accessible by all SFU computing students. CSIL are open to
 
 *TIP: The SFU Snap app has a room location feature and can be used to locate CSIL. View the official SFU app suite [here](http://www.sfu.ca/apps.html).*
 
+# IDEs & Text/Code Editors  
+
+An IDE (Integrated Development Environment) is an application where you can write code and then compile, execute, and debug your code. A text/code editor on the other hand only provides code/script writing and editing features only. If you write a script with a code editor, you will need to compile/execute it using the terminal or open it in an IDE. IDEs contain programming libraries and integrated tools for programmers to use during the programming process. 
+ 
+Both IDEs and text editors are advantageous for different purposes. The benefit of text editors is that you can quickly modify any script without specifying the programming language. Whereas IDEs assist vastly during the debugging process. The IDE you select to use will depend on the programming language you are using. Below is a comparison of different IDEs and text editors. The table is not exhaustive, and you might find other tools online that better suit your needs.
+
+| [VS Code](https://code.visualstudio.com/) |
+- Standalone source code editor 
+- Runs on Windows, macOS, and Linux 
+- Contains extensions to support several programming languages (including Python, C++) 
+- Top pick for JavaScript and web developers  |
+
+
+
+
 
 
 # Compiling/Debugging programs
