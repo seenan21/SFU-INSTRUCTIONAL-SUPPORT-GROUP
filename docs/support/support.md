@@ -44,11 +44,7 @@ An IDE (Integrated Development Environment) is an application where you can writ
  
 Both IDEs and text editors are advantageous for different purposes. The benefit of text editors is that you can quickly modify any script without specifying the programming language. Whereas IDEs assist vastly during the debugging process. The IDE you select to use will depend on the programming language you are using. Below is a comparison of different IDEs and text editors. The table is not exhaustive, and you might find other tools online that better suit your needs.
 
-| [VS Code](https://code.visualstudio.com/) |
-- Standalone source code editor 
-- Runs on Windows, macOS, and Linux 
-- Contains extensions to support several programming languages (including Python, C++) 
-- Top pick for JavaScript and web developers  |
+| [VS Code](https://code.visualstudio.com/) | - Standalone source code editor <br> - Runs on Windows, macOS, and Linux <br> - Contains extensions to support several programming languages (including Python, C++) <br> - Top pick for JavaScript and web developers  |
 
 
 
