@@ -45,9 +45,10 @@ An IDE (Integrated Development Environment) is an application where you can writ
 Both IDEs and text editors are advantageous for different purposes. The benefit of text editors is that you can quickly modify any script without specifying the programming language. Whereas IDEs assist vastly during the debugging process. The IDE you select to use will depend on the programming language you are using. Below is a comparison of different IDEs and text editors. The table is not exhaustive, and you might find other tools online that better suit your needs.
 
 | [VS Code](https://code.visualstudio.com/) | - Standalone source code editor <br> - Runs on Windows, macOS, and Linux <br> - Contains extensions to support several programming languages (including Python, C++) <br> - Top pick for JavaScript and web developers  |
-|bruh | bruh|
-|bruh|bruh|
-|bruh|bruh|
+|[Visual Studio](https://visualstudio.microsoft.com/) | - IDE best used for .NET and C++ developers on windows<br> - Useful for app development<br> - Includes support for web, cloud, and game development |
+|[Eclipse](https://www.eclipse.org/getting-started/) | - IDE for any programming language with an available plug-in<br> - Supports Python (PyDev plug-in), C/C++ (CDT plug-in) <br> - Popular for Java development |
+|[IntelliJ](https://www.jetbrains.com/idea/)| - Really great IDE specific to Java <br> - Has great testing and debugging tools|
+|[Replit](https://replit.com/)| - Free, collaborative, in-browser IDE <br> - Support for 50+ languages (including Python, C++)<br> - GitHub integration which allows you to import GitHub repos<br> - API & plugins|
 
 
 
