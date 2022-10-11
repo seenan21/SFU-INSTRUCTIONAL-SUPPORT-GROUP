@@ -71,16 +71,13 @@ Many courses' assignments require .zip files/folders containing all of the code 
 - [Midterm 2 Review Spring 2018](/docs/courseresources/CMPT%20120/CMPT120Midterm2ReviewSpring2018.pdf)
 - [Final Exam Practice with Solutions Summer 2019](/docs/courseresources/CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf)
 
-### Past assignments
 
-Coming soon
-{: .label .label-yellow }
 
 
 ### Course Textbooks and Reading Material
 
 
-#### Python Textbooks:
+#### Python Textbooks
 
 - [Automate The Boring Stuff With Python](/Textbook%20PDFs/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf)
 - [How to think like a Computer Scientist - Learning With Python](/Textbook%20PDFs/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf)
@@ -88,3 +85,8 @@ Coming soon
 - [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Advanced Guide to Python 3 Programming by John Hunt](https://warin.ca/ressources/books/2019_Book_AdvancedGuideToPython3Programm.pdf)
 - [Introduction to Programming in Python: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/python/home/)
+
+### Past assignments
+
+Coming soon
+{: .label .label-yellow }
