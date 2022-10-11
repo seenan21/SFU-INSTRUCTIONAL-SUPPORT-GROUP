@@ -7,14 +7,7 @@ parent: Course Resources
 
 
 # CMPT 120
-{: .no_toc }
 
-
-## Table of contents
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
 
 ## Past exams
 
