@@ -81,7 +81,7 @@ Many courses' assignments require .zip files/folders containing all of the code 
 ### Course Textbooks and Reading Material
 
 
-#### Python Textbooks
+**Python Textbooks**
 
 - [Automate The Boring Stuff With Python](/Textbook%20PDFs/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf)
 - [How to think like a Computer Scientist - Learning With Python](/Textbook%20PDFs/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf)
