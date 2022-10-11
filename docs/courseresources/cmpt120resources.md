@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMPT 120 Resources
+title: CMPT 120 
 parent: Course Resources
 ---
 
@@ -9,8 +9,7 @@ parent: Course Resources
 # CMPT 120
 {: .no_toc}
 
-## Table of contents
-{: .no_toc .text-delta }
+
 
 - TOC
 {:toc}
