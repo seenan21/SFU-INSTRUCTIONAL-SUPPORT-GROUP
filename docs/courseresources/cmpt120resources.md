@@ -16,6 +16,8 @@ parent: Course Resources
 {:toc}
 
 ## Support
+{: .no_toc}
+
 
 
 ### Accessing CSIL labs
@@ -64,6 +66,8 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 
 ## Resources
+{: .no_toc}
+
 
 ### Past exams
 
@@ -86,7 +90,8 @@ Many courses' assignments require .zip files/folders containing all of the code 
 - [Advanced Guide to Python 3 Programming by John Hunt](https://warin.ca/ressources/books/2019_Book_AdvancedGuideToPython3Programm.pdf)
 - [Introduction to Programming in Python: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/python/home/)
 
-### Past assignments
+
+<!--### Past assignments
 
 Coming soon
-{: .label .label-yellow }
+{: .label .label-yellow } -->
