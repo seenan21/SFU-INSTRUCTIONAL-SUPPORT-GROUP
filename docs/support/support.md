@@ -1,6 +1,6 @@
 ---
 layout: default
-title: New Student Support
+title: Student Support
 nav_order: 3
 has_children: false
 
@@ -8,7 +8,7 @@ has_children: false
 
 
 
-# New Student Support
+# Student Support
 {: .no_toc }
 
 ###### Resources to help newcoming computing science students utilize SFU CS resources, setup coding environments and submit coding assignments.
