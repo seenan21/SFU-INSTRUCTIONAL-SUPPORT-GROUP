@@ -48,7 +48,7 @@ SFU has Computer Labs accessible by all SFU computing students. CSIL are open to
 3. If you are using an IDE, you can run and debug the script inside the IDE. 
 
 
-### How to compress files into a zipped folder
+### Zipping files
 
 Many courses' assignments require .zip files/folders containing all of the code and its dependencies to be handed over during submission.
 
@@ -77,7 +77,7 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 
 
-### Course Textbooks and Reading Material
+### Textbooks 
 
 
 **Python Textbooks**
