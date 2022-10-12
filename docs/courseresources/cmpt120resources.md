@@ -4,26 +4,33 @@ title: CMPT 120
 parent: Course Resources
 ---
 
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.83/dist/themes/light.css" />
+<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.83/dist/shoelace.js"></script>
 
 # CMPT 120
 {: .no_toc}
 
-
-
-- TOC
-{:toc}
-
-# Support
-{: .no_toc}
+<sl-tree>
+  <sl-tree-item>
+    Item 1
+    <sl-tree-item>
+      Item A
+      <sl-tree-item>Item Z</sl-tree-item>
+      <sl-tree-item>Item Y</sl-tree-item>
+      <sl-tree-item>Item X</sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item>Item B</sl-tree-item>
+    <sl-tree-item>Item C</sl-tree-item>
+  </sl-tree-item>
+  <sl-tree-item>Item 2</sl-tree-item>
+  <sl-tree-item>Item 3</sl-tree-item>
+</sl-tree>
 
 # On Campus Help
 
 ## Accessing CSIL labs
 
 SFU has Computer Labs accessible by all SFU computing students. CSIL are open to all students registered in a computing science (CMPT) course. Information and FAQs on CSIL can be accessed on the [CSIL webpage](http://www.sfu.ca/computing/about/support/csil.html)
-
-***Quick Links***
 
 - [Directions to the CSIL in Burnaby and Surrey ](http://www.sfu.ca/computing/about/support/csil/csil-directions.html)
 - [Getting Started for CMPT Undergrads](http://www.sfu.ca/computing/about/support/getting-started.html)
@@ -76,9 +83,6 @@ Many courses' assignments require .zip files/folders containing all of the code 
 - [Zipping and unzipping in Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5#:~:text=Locate%20the%20file%20or%20folder,created%20in%20the%20same%20location.)
 
 - [Zipping and unzipping on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac#:~:text=Compress%20a%20file%20or%20folder,zip%20extension.)
-
-
-
 
 
 
