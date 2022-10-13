@@ -97,7 +97,7 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 ## Past exams
 
-- [Midterm 1 Review Spring 2018](/docs/courseresources/CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf)
+- [Midterm 1 Review Spring 2018](./CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf)
 - [Midterm 2 Review Spring 2018](/docs/courseresources/CMPT%20120/CMPT120Midterm2ReviewSpring2018.pdf)
 - [Final Exam Practice with Solutions Summer 2019](/docs/courseresources/CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf)
 - [Midterm Practice Fall 2022](/docs/courseresources/CMPT%20120/CMPT120MidtermSampleFall2022.pdf) [(Solutions)](/docs/courseresources/CMPT%20120/CMPT120MidtermSampleSolutionsFall2022.pdf)
