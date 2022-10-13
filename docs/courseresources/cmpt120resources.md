@@ -92,7 +92,7 @@ Many courses' assignments require .zip files/folders containing all of the code 
 <br>
 # Course Resources
 
-
+<br>
 [**Python Cheat sheet**](/docs/courseresources/CMPT%20120/CMPT120PythonCheatSheet.pdf)
 
 ## Past exams
