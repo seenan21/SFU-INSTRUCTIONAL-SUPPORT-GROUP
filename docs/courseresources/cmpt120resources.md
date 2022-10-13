@@ -25,6 +25,7 @@ parent: Course Resources
     </sl-tree-item>
 </sl-tree>
 
+
 # On Campus Help
 
 ## Accessing CSIL labs
@@ -43,6 +44,7 @@ SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-stud
 
 
 
+<br>
 # Setting up Python
 
 
@@ -72,6 +74,7 @@ We recommend in using the following IDEs for CMPT 120:
 
 
 
+<br>
 # Assignment Download/Submission
 
 
@@ -86,7 +89,7 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 
 
-
+<br>
 # Course Resources
 
 
