@@ -11,6 +11,8 @@ parent: Course Resources
 {: .no_toc}
 
 <sl-tree>
+        <sl-icon name="plus-square" slot="expand-icon"></sl-icon>
+        <sl-icon name="dash-square" slot="collapse-icon"></sl-icon>
     <sl-tree-item>
     <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#on-campus-help">On Campus Help</a>
     </sl-tree-item>
@@ -19,8 +21,8 @@ parent: Course Resources
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#recommended-python-ides"><h5> Recommended Python IDEs</h5></a></sl-tree-item>
     </sl-tree-item>
     </sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Assignment Download/Submission</a></sl-tree-item>
-  <sl-tree-item><a href=""> f</a></sl-tree-item>
-  <sl-tree-item><a href=""> f</a></sl-tree-item>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources"> Course Resources</a>
+    </sl-tree-item>
 </sl-tree>
 
 # On Campus Help
