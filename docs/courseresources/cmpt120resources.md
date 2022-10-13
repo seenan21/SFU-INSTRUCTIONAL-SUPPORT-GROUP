@@ -14,14 +14,14 @@ parent: Course Resources
         <sl-icon name="plus-square" slot="expand-icon"></sl-icon>
         <sl-icon name="dash-square" slot="collapse-icon"></sl-icon>
     <sl-tree-item>
-    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#on-campus-help">On Campus Help</a>
+    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#on-campus-help"><h5>On Campus Help</h5></a>
     </sl-tree-item>
-    <sl-tree-item><a href=""><h5>Setting Up Python</h5></a>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#setting-up-python"><h5>Setting Up Python</h5></a>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#compiling-python-programs"><h5>Compiling Python Programs</h5></a></sl-tree-item>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#recommended-python-ides"><h5> Recommended Python IDEs</h5></a></sl-tree-item>
     </sl-tree-item>
-    </sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Assignment Download/Submission</a></sl-tree-item>
-    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources"> Course Resources</a>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission"><h5>Assignment Download/Submission</h5></a></sl-tree-item>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources"><h5> Course Resources</h5></a>
     </sl-tree-item>
 </sl-tree>
 
