@@ -11,19 +11,17 @@ parent: Course Resources
 {: .no_toc}
 
 <sl-tree>
-  <sl-tree-item>
-    Item 1
     <sl-tree-item>
-      Item A
-      <sl-tree-item>Item Z</sl-tree-item>
-      <sl-tree-item>Item Y</sl-tree-item>
-      <sl-tree-item>Item X</sl-tree-item>
+    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#on-campus-help">On Campus Help</a>
     </sl-tree-item>
-    <sl-tree-item>Item B</sl-tree-item>
-    <sl-tree-item>Item C</sl-tree-item>
+    <sl-tree-item><a href="">Setting Up Python</a>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#compiling-python-programs">Compiling Python Programs</a></sl-tree-item>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#recommended-python-ides"> Recommended Python IDEs</a></sl-tree-item>
+    </sl-tree-item>
+    <sl-tree-item><a href=""> f</a></sl-tree-item>
   </sl-tree-item>
-  <sl-tree-item>Item 2</sl-tree-item>
-  <sl-tree-item>Item 3</sl-tree-item>
+  <sl-tree-item><a href=""> f</a></sl-tree-item>
+  <sl-tree-item><a href=""> f</a></sl-tree-item>
 </sl-tree>
 
 # On Campus Help
