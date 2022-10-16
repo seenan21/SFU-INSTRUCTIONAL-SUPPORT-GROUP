@@ -51,31 +51,49 @@ SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-stud
 <br>
 # Setting up Python
 
+## Installing Python
+ - If you need to [download python](https://www.python.org/downloads/), you can download the latest version from the official Python website. The website also contains updated documentation, guides, source code, etc.  
+- Install python. Installation guide for [Linux/Unix](https://docs.python.org/3/using/unix.html), [Windows](https://docs.python.org/3/using/windows.html), and [MacOS](https://docs.python.org/3/using/mac.html) 
+    
+ | Linux/Unix| Python should be pre-installed on your machine. If it isn’t you can download and after downloading and extracting the files, run the following commands in the respective directory:`>./configure` then  `>make` then  `>make altinstall` |
+    | Windows | Follow the Python installation wizard instructions upon downloading the Python Windows installer version you need. After starting the installer you can select “Install Now” to install the default settings.|
+    | MacOS   |  Macs come with Python pre-installed. If the version on your Mac is outdated, you can download and install the version you need by using the Python installation wizard. |
+
+- To install Python on an iPad you would need to buy it from the Apple Store, but you are  NOT required to buy this! Ideally, you should  work on a laptop or desktop as you will need to do considerable typing (in a normal keyboard). 
+- We will also work with web-based environments (such as Replit,.) that allow that you use Python even if it is not installed in your machine.
+- If you cannot install Python consult during office hours. You can also use computers in the CSIL labs, where Python and development environments are already installed.
 
 ## Compiling Python Programs
 {: .no_toc}
 
-1. Set up your environment
-    - Open the terminal and check that you have python installed and check which version you have. Enter the following command: 'python --version'
-    - If you need to [download python](https://www.python.org/downloads/), you can download the latest version from the official Python website. The website also contains updated documentation, guides, source code, etc.  
-    - Install python. Installation guide for [Linux/Unix](https://docs.python.org/3/using/unix.html), [Windows](https://docs.python.org/3/using/windows.html), and [MacOS](https://docs.python.org/3/using/mac.html) 
-    - | Linux/Unix| Python should be pre-installed on your machine. If it isn’t you can download and after downloading and extracting the files, run the following commands in the respective directory:`>./configure` then  `>make` then  `>make altinstall` |
-    | Windows | Follow the Python installation wizard instructions upon downloading the Python Windows installer version you need. After starting the installer you can select “Install Now” to install the default settings.|
-    | MacOS   |  Macs come with Python pre-installed. If the version on your Mac is outdated, you can download and install the version you need by using the Python installation wizard. |
+1. Set up your environment. Open the terminal and check that you have python installed and check which version you have. Enter the following command: 'python --version. If you do not have python, make sure you install it before proceeding.
 
-2. In interactive mode programming you can invoke the python interpreter by entering:  python. But by using your editor of choice you can write a python script ( “.py” file) and run it by entering the following in the terminal: python MyScript.py. This will compile and execute your script. 
+2. In interactive mode programming you can invoke the python interpreter by entering:  python. But by using your editor of choice you can write a python script ( “.py” file) and run it by entering the following in the terminal: `python MyScript.py`. This will compile and execute your script. 
 
 3. If you are using an IDE, you can run and debug the script inside the IDE. 
 
 ## Recommended Python IDEs
 
-
 An IDE (Integrated Development Environment) is an application where you can write code and then compile, execute, and debug your code. A text/code editor on the other hand only provides code/script writing and editing features only. If you write a script with a code editor, you will need to compile/execute it using the terminal or open it in an IDE. IDEs contain programming libraries and integrated tools for programmers to use during the programming process.
 
-We recommend in using the following IDEs for CMPT 120:
-- [Mu editor](https://codewith.mu/en/)
-- [replit - online IDE](https://replit.com/site/ide)
+Although any IDE can be used, we recommend in using the following beginner friendly IDEs for CMPT 120 students:
 
+### IDLE
+[IDLE](https://docs.python.org/3/library/idle.html) is Python's “Integrated Development and Learning Environment”. This is installed when Python is installed (both in PC's and in Macs). When you work with IDLE you work locally in your own computer.
+
+### Replit
+[Replit.com, the online IDE,](https://replit.com/site/ide) is a web-based tool to execute programs in different programming languages. It is convenient to use when you do not have access to a machine with Python installed on it (though installation of Python is straightforward). It is not recommended to use Replit for assignments and tests unless you use a paid account (about $5 fee per month last time we checked).
+
+#### Demo Video for IDLE and Replit
+Watch this [demo video](https://stream.sfu.ca/Media/Play/ad14caf6bdc6488893b1539698a15f5d1d) to get a gist of how to set up these two IDEs commonly used for CMPT 120. Note that at the time of recording the video, it was possible to work anonymously with Replit. Currently you need to create a paid account in Replit. You may use any id and email for such account.
+
+#### Mu Editor
+
+The [Mu editor](https://codewith.mu/en/) is another free environment, offline (to work locally), and really straightforward to use that you may want to download it - can be used later on in the course.
+
+#### Spyder
+[spyder](https://www.spyder-ide.org/) is a free, more advanced development offline environment which can also be potentially utilized in the course.
+ 
 
 
 <br>
