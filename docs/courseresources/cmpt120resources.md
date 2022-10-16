@@ -125,10 +125,6 @@ Coming soon
 {: .label .label-yellow } -->
 
 <style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-}
 
 #myBtn {
   
