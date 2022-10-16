@@ -3,26 +3,13 @@ layout: default
 title: CMPT 120 
 parent: Course Resources
 ---
+
 <script>
-mybutton = document.getElementById("myBtn");
-
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
+    function topFunction() {
+     document.body.scrollTop = 0;
+     document.documentElement.scrollTop = 0;
 }
 </script>
-
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 
@@ -146,6 +133,7 @@ Coming soon
 
 #myBtn {
   
+  display: none;
   position: fixed;
   bottom: 20px;
   right: 30px;
@@ -167,3 +155,19 @@ Coming soon
 
 
 
+<script>
+mybutton = document.getElementById("myBtn");
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+
+</script>
