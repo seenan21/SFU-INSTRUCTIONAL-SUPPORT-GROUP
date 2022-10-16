@@ -10,16 +10,16 @@ parent: Course Resources
      document.documentElement.scrollTop = 0;
 }
 </script>
-<button onclick="topFunction()" id="myBtn" title="Go to top">Go Back To Top</button>
+<button onclick="topFunction()" id="toTopBtn" title="Go to top">Go Back To Top</button>
 
 <style>
 
-#myBtn {
+#toTopBtn {
   
   display: none;
   position: fixed;
-  bottom: 20px;
-  right: 30px;
+  bottom: 10px;
+  right: 10px;
   z-index: 99;
   font-size: 12px;
   border: none;
@@ -31,28 +31,31 @@ parent: Course Resources
   border-radius: 4px;
 }
 
-#myBtn:hover {
+#toTopBtn:hover {
   background-color: #6b638f;
+}
+
+@media screen and (max-width: 768px) {
+  #myBtn {
+    display: none;
+  }
 }
 </style>
 
 
 
 <script>
-mybutton = document.getElementById("myBtn");
+mybutton = document.getElementById("toTopBtn");
 
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+  if (document.body.scrollTop > 40 || document.documentElement.scrollTop > 40) {
     mybutton.style.display = "block";
   } else {
     mybutton.style.display = "none";
   }
 }
-
-// When the user clicks on the button, scroll to the top of the document
-
 </script>
 
 
