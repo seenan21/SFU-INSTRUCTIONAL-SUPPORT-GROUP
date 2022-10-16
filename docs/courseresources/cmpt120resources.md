@@ -12,7 +12,7 @@ parent: Course Resources
 <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.83/dist/shoelace.js"></script>
 
 # CMPT 120
-{: .no_toc .v-align-middle}
+{: .no_toc .flex-justify-between}
 
 <sl-tree>
         <sl-icon name="plus-square" slot="expand-icon"></sl-icon>
