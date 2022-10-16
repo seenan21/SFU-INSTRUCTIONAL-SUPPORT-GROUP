@@ -30,13 +30,7 @@
   background-color: #6b638f;
 }
 
-@media (max-width: 900px) {
-  #toTopBtn {
-    display: none;
-    background-color: black;
 
-  }
-}
 </style>
 
 
@@ -47,7 +41,7 @@ mybutton = document.getElementById("toTopBtn");
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 120 || document.documentElement.scrollTop > 120) {
+  if (window.innerWidth > 768 && (document.body.scrollTop > 120 || document.documentElement.scrollTop > 120)) {
     mybutton.style.display = "block";
   } else {
     mybutton.style.display = "none";
