@@ -29,7 +29,7 @@ parent: Course Resources
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#saving-code-into-local-file">Saving code into local file</a><sl-tree-item>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#zipping-files">Zipping files</a><sl-tree-item>
     </sl-tree-item>
-    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources"> Course Resources</a>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources">Course Resources</a>
     </sl-tree-item>
 </sl-tree>
 
