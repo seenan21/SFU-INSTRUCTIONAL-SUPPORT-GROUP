@@ -23,6 +23,7 @@ parent: Course Resources
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#setting-up-python">Setting Up Python</a>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#compiling-python-programs">Compiling Python Programs</a></sl-tree-item>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#recommended-python-ides"> Recommended Python IDEs</a></sl-tree-item>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#installing-python">Installing Python </a></sl-tree-item>
     </sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Assignment Download/Submission</a></sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources"> Course Resources</a>
@@ -52,21 +53,23 @@ SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-stud
 # Setting up Python
 
 ## Installing Python
- - If you need to [download python](https://www.python.org/downloads/), you can download the latest version from the official Python website. The website also contains updated documentation, guides, source code, etc.  
-- Install python. Installation guide for [Linux/Unix](https://docs.python.org/3/using/unix.html), [Windows](https://docs.python.org/3/using/windows.html), and [MacOS](https://docs.python.org/3/using/mac.html) 
+
+If you need to [download python](https://www.python.org/downloads/), you can download the latest version from the official Python website. The website also contains updated documentation, guides, source code, etc. You can check the installation guide for [Linux/Unix](https://docs.python.org/3/using/unix.html), [Windows](https://docs.python.org/3/using/windows.html), and [MacOS](https://docs.python.org/3/using/mac.html). 
     
  | Linux/Unix| Python should be pre-installed on your machine. If it isn’t you can download and after downloading and extracting the files, run the following commands in the respective directory:`>./configure` then  `>make` then  `>make altinstall` |
     | Windows | Follow the Python installation wizard instructions upon downloading the Python Windows installer version you need. After starting the installer you can select “Install Now” to install the default settings.|
     | MacOS   |  Macs come with Python pre-installed. If the version on your Mac is outdated, you can download and install the version you need by using the Python installation wizard. |
 
 - To install Python on an iPad you would need to buy it from the Apple Store, but you are  NOT required to buy this! Ideally, you should  work on a laptop or desktop as you will need to do considerable typing (in a normal keyboard). 
+
 - We will also work with web-based environments (such as Replit,.) that allow that you use Python even if it is not installed in your machine.
+
 - If you cannot install Python consult during office hours. You can also use computers in the CSIL labs, where Python and development environments are already installed.
 
 ## Compiling Python Programs
 {: .no_toc}
 
-1. Set up your environment. Open the terminal and check that you have python installed and check which version you have. Enter the following command: 'python --version. If you do not have python, make sure you install it before proceeding.
+1. Set up your environment. Open the terminal and check that you have python installed and check which version you have. Enter the following command: `python --version`. If you do not have python, make sure you install it before proceeding.
 
 2. In interactive mode programming you can invoke the python interpreter by entering:  python. But by using your editor of choice you can write a python script ( “.py” file) and run it by entering the following in the terminal: `python MyScript.py`. This will compile and execute your script. 
 
@@ -84,14 +87,14 @@ Although any IDE can be used, we recommend in using the following beginner frien
 ### Replit
 [Replit.com, the online IDE,](https://replit.com/site/ide) is a web-based tool to execute programs in different programming languages. It is convenient to use when you do not have access to a machine with Python installed on it (though installation of Python is straightforward). It is not recommended to use Replit for assignments and tests unless you use a paid account (about $5 fee per month last time we checked).
 
-#### Demo Video for IDLE and Replit
+### Demo Video for IDLE and Replit
 Watch this [demo video](https://stream.sfu.ca/Media/Play/ad14caf6bdc6488893b1539698a15f5d1d) to get a gist of how to set up these two IDEs commonly used for CMPT 120. Note that at the time of recording the video, it was possible to work anonymously with Replit. Currently you need to create a paid account in Replit. You may use any id and email for such account.
 
-#### Mu Editor
+### Mu Editor
 
 The [Mu editor](https://codewith.mu/en/) is another free environment, offline (to work locally), and really straightforward to use that you may want to download it - can be used later on in the course.
 
-#### Spyder
+### Spyder
 [spyder](https://www.spyder-ide.org/) is a free, more advanced development offline environment which can also be potentially utilized in the course.
  
 
@@ -99,6 +102,23 @@ The [Mu editor](https://codewith.mu/en/) is another free environment, offline (t
 <br>
 # Assignment Download/Submission
 
+
+## Saving code into local file
+
+If a student happens to write all the code into an online IDE or such but wishes to save it as a local file it shouldn't be too much of a hassle.
+Repl allows for python program files to be exported as a ZIP.
+
+![Repl export of python files](./CMPT%20120/extractingFromRepl.png "Repl allows export of python files")
+
+You can also copy & paste the code into a local text file on your computer if needed:
+
+1- Open a plain text editor (e.g. Notepad on Windows).
+2- Mark the entire program code you wrote in repl.it by dragging your mouse over it while holding the left button clicked.
+3- Right click -> Copy, in repl.it.  (CTRL C)
+4- Right click -> Paste, in the text editor.  (CTRL V)
+5- Menu -> "Save as" in the text editor, and choose a filename with the file extension ".py"
+
+Recall that Python program files are just regular plain text files. They are just like other such files whose names usually end in ".txt". The only difference is that we use the ".py" extension to indicate to the operating system that the text in this file constitutes a Python program, and hence should be run by the Python interpreter.
 
 ## Zipping files
 
