@@ -21,11 +21,14 @@ parent: Course Resources
     <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#on-campus-help">On Campus Help</a>
     </sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#setting-up-python">Setting Up Python</a>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#installing-python">Installing Python </a></sl-tree-item>   
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#compiling-python-programs">Compiling Python Programs</a></sl-tree-item>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#recommended-python-ides"> Recommended Python IDEs</a></sl-tree-item>
-        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#installing-python">Installing Python </a></sl-tree-item>
     </sl-tree-item>
-    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Assignment Download/Submission</a></sl-tree-item>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Assignment Download/Submission</a>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#saving-code-into-local-file">Saving code into local file</a><sl-tree-item>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#zipping-files">Zipping files</a><sl-tree-item>
+    </sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources"> Course Resources</a>
     </sl-tree-item>
 </sl-tree>
@@ -112,11 +115,11 @@ Repl allows for python program files to be exported as a ZIP.
 
 You can also copy & paste the code into a local text file on your computer if needed:
 
-1- Open a plain text editor (e.g. Notepad on Windows).
-2- Mark the entire program code you wrote in repl.it by dragging your mouse over it while holding the left button clicked.
-3- Right click -> Copy, in repl.it.  (CTRL C)
-4- Right click -> Paste, in the text editor.  (CTRL V)
-5- Menu -> "Save as" in the text editor, and choose a filename with the file extension ".py"
+1. Open a plain text editor (e.g. Notepad on Windows).
+2. Mark the entire program code you wrote in repl.it by dragging your mouse over it while holding the left button clicked.
+3. Right click -> Copy, in repl.it.  (CTRL C)
+4. Right click -> Paste, in the text editor.  (CTRL V)
+5. Menu -> "Save as" in the text editor, and choose a filename with the file extension ".py"
 
 Recall that Python program files are just regular plain text files. They are just like other such files whose names usually end in ".txt". The only difference is that we use the ".py" extension to indicate to the operating system that the text in this file constitutes a Python program, and hence should be run by the Python interpreter.
 
