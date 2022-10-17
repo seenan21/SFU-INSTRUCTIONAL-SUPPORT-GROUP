@@ -138,7 +138,9 @@ Many courses' assignments require .zip files/folders containing all of the code 
 # Course Resources
 
 <br>
-[**Python Cheat sheet**](/docs/courseresources/CMPT%20120/CMPT120PythonCheatSheet.pdf)
+[**Python Cheat sheet**](./CMPT%20120/CMPT120PythonCheatSheet.pdf)
+[**Python Style Guide**](https://legacy.python.org/dev/peps/pep-0008/#code-lay-out)
+
 
 ## Past exams
 
@@ -150,14 +152,20 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 ## Textbooks 
 
-**Python Textbooks**
+### Python Textbooks
 
-- [Automate The Boring Stuff With Python](/Textbook%20PDFs/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf)
-- [How to think like a Computer Scientist - Learning With Python](/Textbook%20PDFs/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf)
+- [How to think like a Computer Scientist - Learning With Python](./CMPT%20120/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf)
+- [Automate The Boring Stuff With Python](./CMPT%20120/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf)
 - [Python Basics: A Practical Introduction to Python 3](https://static.realpython.com/python-basics-sample-chapters.pdf)
 - [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Advanced Guide to Python 3 Programming by John Hunt](https://warin.ca/ressources/books/2019_Book_AdvancedGuideToPython3Programm.pdf)
 - [Introduction to Programming in Python: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/python/home/)
+
+## Extra Python Coding Practice
+
+You can use the exercises/examples in the following sites for more practice. Keep in mind however that some content might not be covered in the lectures -- the idea is not to learn new things, but to practice using what you have learned from the lectures to solve the problems there.
+
+You can visit [CodingBat](https://codingbat.com/python), [LearnPython](https://www.learnpython.org/) or [PythonFromScratch UWaterloo](https://open.cs.uwaterloo.ca/python-from-scratch/6/).
 
 
 <!--### Past assignments
