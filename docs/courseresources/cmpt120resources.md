@@ -52,7 +52,8 @@ SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-stud
 
 
 
-<br>
+<sl-divider style="--width: 4px;"></sl-divider>
+
 # Setting up Python
 
 ## Installing Python
@@ -102,7 +103,7 @@ The [Mu editor](https://codewith.mu/en/) is another free environment, offline (t
  
 
 
-<br>
+<sl-divider style="--width: 4px;"></sl-divider>
 # Assignment Download/Submission
 
 
@@ -133,13 +134,14 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 
 
+<sl-divider style="--width: 4px;"></sl-divider>
 
-<br>
 # Course Resources
 
-<br>
+
 [**Python Cheat sheet**](./CMPT%20120/CMPT120PythonCheatSheet.pdf) <br>
-[**Python Style Guide**](https://legacy.python.org/dev/peps/pep-0008/#code-lay-out)
+[**Python Style Guide**](https://legacy.python.org/dev/peps/pep-0008/#code-lay-out) <br>
+[**Python built-in Functions**](https://docs.python.org/3/library/functions.html)
 
 
 ## Past exams
@@ -150,7 +152,6 @@ Many courses' assignments require .zip files/folders containing all of the code 
 - [Final Exam Practice with Solutions Summer 2019](./CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf)
 - [Midterm Practice Fall 2022](./CMPT%20120/CMPT120MidtermSampleFall2022.pdf) [(Solutions)](./CMPT%20120/CMPT120MidtermSampleSolutionsFall2022.pdf)
 
-<sl-divider style="--width: 4px;"></sl-divider>
 
 ## Textbooks 
 
