@@ -34,9 +34,8 @@ parent: Course Resources
 </sl-tree>
 
 
-# On Campus Help
 
-## Accessing CSIL labs
+# Accessing CSIL labs
 
 SFU has Computer Labs accessible by all SFU computing students. CSIL are open to all students registered in a computing science (CMPT) course. Information and FAQs on CSIL can be accessed on the [CSIL webpage](http://www.sfu.ca/computing/about/support/csil.html)
 
@@ -47,7 +46,7 @@ SFU has Computer Labs accessible by all SFU computing students. CSIL are open to
 
 *TIP: The SFU Snap app has a room location feature and can be used to locate CSIL. View the official SFU app suite [here](http://www.sfu.ca/apps.html).*
 
-## Peer Tutoring
+# Peer Tutoring
 SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-students/undergraduate-students/student-resources/cs_peer_tutoring1.html) program to provide extra support in learning difficult concepts or assignments. Peer tutors can be accessed both remote and in person.
 
 
@@ -104,7 +103,7 @@ The [Mu editor](https://codewith.mu/en/) is another free environment, offline (t
 
 
 <sl-divider style="--width: 4px;"></sl-divider>
-# Assignment Download/Submission
+# Assignment Help
 
 
 ## Saving code into local file
