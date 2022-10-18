@@ -90,7 +90,7 @@ Although any IDE can be used, we recommend in using the following beginner frien
 ### Replit
 [Replit.com, the online IDE,](https://replit.com/site/ide) is a web-based tool to execute programs in different programming languages. It is convenient to use when you do not have access to a machine with Python installed on it (though installation of Python is straightforward). It is not recommended to use Replit for assignments and tests unless you use a paid account (about $5 fee per month last time we checked).
 
-### Demo Video for IDLE and Replit
+#### Demo Video for IDLE and Replit
 Watch this [demo video](https://stream.sfu.ca/Media/Play/ad14caf6bdc6488893b1539698a15f5d1d) to get a gist of how to set up these two IDEs commonly used for CMPT 120. Note that at the time of recording the video, it was possible to work anonymously with Replit. Currently you need to create a paid account in Replit. You may use any id and email for such account.
 
 ### Mu Editor
@@ -138,7 +138,7 @@ Many courses' assignments require .zip files/folders containing all of the code 
 # Course Resources
 
 <br>
-[**Python Cheat sheet**](./CMPT%20120/CMPT120PythonCheatSheet.pdf)
+[**Python Cheat sheet**](./CMPT%20120/CMPT120PythonCheatSheet.pdf) <br>
 [**Python Style Guide**](https://legacy.python.org/dev/peps/pep-0008/#code-lay-out)
 
 
@@ -146,9 +146,11 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 - [Midterm 1 Review Spring 2018](./CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf)
 - [Midterm 2 Review Spring 2018](./CMPT%20120/CMPT120Midterm2ReviewSpring2018.pdf)
+- [Final Exam Coding Spring 2018](./CMPT%20120/CMPT120FinalSpring2018.pdf)
 - [Final Exam Practice with Solutions Summer 2019](./CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf)
 - [Midterm Practice Fall 2022](./CMPT%20120/CMPT120MidtermSampleFall2022.pdf) [(Solutions)](./CMPT%20120/CMPT120MidtermSampleSolutionsFall2022.pdf)
 
+<sl-divider style="--width: 4px;"></sl-divider>
 
 ## Textbooks 
 
