@@ -44,7 +44,7 @@ parent: Course Resources
 
 ## Installing Python
 
-If you need to [download python](https://www.python.org/downloads/), you can download the latest version from the official Python website. The website also contains updated documentation, guides, source code, etc. You can check the installation guide for [Linux/Unix](https://docs.python.org/3/using/unix.html), [Windows](https://docs.python.org/3/using/windows.html), and [MacOS](https://docs.python.org/3/using/mac.html). 
+If you need to [download python](https://www.python.org/downloads/){:target="_blank"}, you can download the latest version from the official Python website. The website also contains updated documentation, guides, source code, etc. You can check the installation guide for [Linux/Unix](https://docs.python.org/3/using/unix.html){:target="_blank"}, [Windows](https://docs.python.org/3/using/windows.html){:target="_blank"}, and [MacOS](https://docs.python.org/3/using/mac.html){:target="_blank"}. 
     
  | Linux/Unix| Python should be pre-installed on your machine. If it isn’t you can download and after downloading and extracting the files, run the following commands in the respective directory:`>./configure` then  `>make` then  `>make altinstall` |
     | Windows | Follow the Python installation wizard instructions upon downloading the Python Windows installer version you need. After starting the installer you can select “Install Now” to install the default settings.|
@@ -72,20 +72,20 @@ An IDE (Integrated Development Environment) is an application where you can writ
 Although any IDE can be used, we recommend in using the following beginner friendly IDEs for CMPT 120 students:
 
 ### IDLE
-[IDLE](https://docs.python.org/3/library/idle.html) is Python's “Integrated Development and Learning Environment”. This is installed when Python is installed (both in PC's and in Macs). When you work with IDLE you work locally in your own computer.
+[IDLE](https://docs.python.org/3/library/idle.html){:target="_blank"} is Python's “Integrated Development and Learning Environment”. This is installed when Python is installed (both in PC's and in Macs). When you work with IDLE you work locally in your own computer.
 
 ### Replit
-[Replit.com, the online IDE,](https://replit.com/site/ide) is a web-based tool to execute programs in different programming languages. It is convenient to use when you do not have access to a machine with Python installed on it (though installation of Python is straightforward). It is not recommended to use Replit for assignments and tests unless you use a paid account (about $5 fee per month last time we checked).
+[Replit.com, the online IDE,](https://replit.com/site/ide){:target="_blank"} is a web-based tool to execute programs in different programming languages. It is convenient to use when you do not have access to a machine with Python installed on it (though installation of Python is straightforward). It is not recommended to use Replit for assignments and tests unless you use a paid account (about $5 fee per month last time we checked).
 
 #### Demo Video for IDLE and Replit
-Watch this [demo video](https://stream.sfu.ca/Media/Play/ad14caf6bdc6488893b1539698a15f5d1d) to get a gist of how to set up these two IDEs commonly used for CMPT 120. Note that at the time of recording the video, it was possible to work anonymously with Replit. Currently you need to create a paid account in Replit. You may use any id and email for such account.
+Watch this [demo video](https://stream.sfu.ca/Media/Play/ad14caf6bdc6488893b1539698a15f5d1d){:target="_blank"} to get a gist of how to set up these two IDEs commonly used for CMPT 120. Note that at the time of recording the video, it was possible to work anonymously with Replit. Currently you need to create a paid account in Replit. You may use any id and email for such account.
 
 ### Mu Editor
 
-The [Mu editor](https://codewith.mu/en/) is another free environment, offline (to work locally), and really straightforward to use that you may want to download it - can be used later on in the course.
+The [Mu editor](https://codewith.mu/en/){:target="_blank"} is another free environment, offline (to work locally), and really straightforward to use that you may want to download it - can be used later on in the course.
 
 ### Spyder
-[spyder](https://www.spyder-ide.org/) is a free, more advanced development offline environment which can also be potentially utilized in the course.
+[spyder](https://www.spyder-ide.org/){:target="_blank"} is a free, more advanced development offline environment which can also be potentially utilized in the course.
  
 
 
@@ -116,9 +116,9 @@ Recall that Python program files are just regular plain text files. They are jus
 
 Many courses' assignments require .zip files/folders containing all of the code and its dependencies to be handed over during submission.
 
-- [Zipping and unzipping in Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5#:~:text=Locate%20the%20file%20or%20folder,created%20in%20the%20same%20location.)
+- [Zipping and unzipping in Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5#:~:text=Locate%20the%20file%20or%20folder,created%20in%20the%20same%20location.){:target="_blank"}
 
-- [Zipping and unzipping on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac#:~:text=Compress%20a%20file%20or%20folder,zip%20extension.)
+- [Zipping and unzipping on Mac](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac#:~:text=Compress%20a%20file%20or%20folder,zip%20extension.){:target="_blank"}
 
 
 
@@ -127,9 +127,9 @@ Many courses' assignments require .zip files/folders containing all of the code 
 # Course Resources
 
 
-[**Python Cheat sheet**](./CMPT%20120/CMPT120PythonCheatSheet.pdf) <br>
-[**Python Style Guide**](https://legacy.python.org/dev/peps/pep-0008/#code-lay-out) <br>
-[**Python built-in Functions**](https://docs.python.org/3/library/functions.html)
+[**Python Cheat sheet**](./CMPT%20120/CMPT120PythonCheatSheet.pdf){:target="_blank"} <br>
+[**Python Style Guide**](https://legacy.python.org/dev/peps/pep-0008/#code-lay-out){:target="_blank"} <br>
+[**Python built-in Functions**](https://docs.python.org/3/library/functions.html){:target="_blank"}
 
 
 ## Past exams
@@ -163,24 +163,27 @@ You can visit [CodingBat](https://codingbat.com/python){:target="_blank"}, [Lear
 
 ## Accessing CSIL labs
 
-SFU has Computer Labs accessible by all SFU computing students. CSIL are open to all students registered in a computing science (CMPT) course. Information and FAQs on CSIL can be accessed on the [CSIL webpage](http://www.sfu.ca/computing/about/support/csil.html)
+SFU has Computer Labs accessible by all SFU computing students. CSIL are open to all students registered in a computing science (CMPT) course. Information and FAQs on CSIL can be accessed on the [CSIL webpage](http://www.sfu.ca/computing/about/support/csil.html){:target="_blank"}
 
-- [Directions to the CSIL in Burnaby and Surrey ](http://www.sfu.ca/computing/about/support/csil/csil-directions.html)
-- [Getting Started for CMPT Undergrads](http://www.sfu.ca/computing/about/support/getting-started.html)
-- [General FAQ with regards to CSIL](http://www.sfu.ca/computing/about/support/csil/general.html)
-- [CSIL Policies](http://www.sfu.ca/computing/about/support/csil/policies.html)
+- [Directions to the CSIL in Burnaby and Surrey ](http://www.sfu.ca/computing/about/support/csil/csil-directions.html){:target="_blank"}
+- [Getting Started for CMPT Undergrads](http://www.sfu.ca/computing/about/support/getting-started.html){:target="_blank"}
+- [General FAQ with regards to CSIL](http://www.sfu.ca/computing/about/support/csil/general.html){:target="_blank"}
+- [CSIL Policies](http://www.sfu.ca/computing/about/support/csil/policies.html){:target="_blank"}
 
-*TIP: The SFU Snap app has a room location feature and can be used to locate CSIL. View the official SFU app suite [here](http://www.sfu.ca/apps.html).*
+*TIP: The SFU Snap app has a room location feature and can be used to locate CSIL. View the official SFU app suite [here](http://www.sfu.ca/apps.html){:target="_blank"}.*
 
 ## Peer Tutoring
-SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-students/undergraduate-students/student-resources/cs_peer_tutoring1.html) program to provide extra support in learning difficult concepts or assignments. Peer tutors can be accessed both remote and in person.
+SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-students/undergraduate-students/student-resources/cs_peer_tutoring1.html){:target="_blank"} program to provide extra support in learning difficult concepts or assignments. Peer tutors can be accessed both remote and in person.
 
+<sl-divider style="--width: 6px;"></sl-divider>
 
 <!--### Past assignments
 
 Coming soon
 {: .label .label-yellow } -->
 
+
+# Discussion
 
 <div id="disqus_thread"></div>
 <script>
