@@ -6,6 +6,7 @@ parent: Course Resources
 
 
 {% include toTopBtn.html %}
+{% include head_custom.html %}
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.83/dist/themes/light.css" />
@@ -18,15 +19,15 @@ parent: Course Resources
         <sl-icon name="plus-square" slot="expand-icon"></sl-icon>
         <sl-icon name="dash-square" slot="collapse-icon"></sl-icon>
     <sl-tree-item>
-    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#on-campus-help">On Campus Help</a>
+    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#on-campus-help">CSIL and Peer Tutoring</a>
     </sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#setting-up-python">Setting Up Python</a>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#installing-python">Installing Python </a></sl-tree-item>   
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#compiling-python-programs">Compiling Python Programs</a></sl-tree-item>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#recommended-python-ides"> Recommended Python IDEs</a></sl-tree-item>
     </sl-tree-item>
-    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Assignment Download/Submission</a>
-        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#saving-code-into-local-file">Saving code into local file</a></sl-tree-item>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Submitting Assignments</a>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#saving-code-into-local-file">Downloading Repl Code</a></sl-tree-item>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#zipping-files">Zipping files</a></sl-tree-item>
     </sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources">Course Resources</a>
@@ -35,23 +36,9 @@ parent: Course Resources
 
 
 
-# Accessing CSIL labs
-
-SFU has Computer Labs accessible by all SFU computing students. CSIL are open to all students registered in a computing science (CMPT) course. Information and FAQs on CSIL can be accessed on the [CSIL webpage](http://www.sfu.ca/computing/about/support/csil.html)
-
-- [Directions to the CSIL in Burnaby and Surrey ](http://www.sfu.ca/computing/about/support/csil/csil-directions.html)
-- [Getting Started for CMPT Undergrads](http://www.sfu.ca/computing/about/support/getting-started.html)
-- [General FAQ with regards to CSIL](http://www.sfu.ca/computing/about/support/csil/general.html)
-- [CSIL Policies](http://www.sfu.ca/computing/about/support/csil/policies.html)
-
-*TIP: The SFU Snap app has a room location feature and can be used to locate CSIL. View the official SFU app suite [here](http://www.sfu.ca/apps.html).*
-
-# Peer Tutoring
-SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-students/undergraduate-students/student-resources/cs_peer_tutoring1.html) program to provide extra support in learning difficult concepts or assignments. Peer tutors can be accessed both remote and in person.
 
 
 
-<sl-divider style="--width: 4px;"></sl-divider>
 
 # Setting up Python
 
@@ -103,15 +90,17 @@ The [Mu editor](https://codewith.mu/en/) is another free environment, offline (t
 
 
 <sl-divider style="--width: 4px;"></sl-divider>
-# Assignment Help
+
+# Submitting Assignments
 
 
-## Saving code into local file
+## Downloading Repl Code
 
-If a student happens to write all the code into an online IDE or such but wishes to save it as a local file it shouldn't be too much of a hassle.
-Repl allows for python program files to be exported as a ZIP.
+If code is written on the online IDE Repl, Repl allows for python program files to be exported as a ZIP.
 
 ![Repl export of python files](./CMPT%20120/extractingFromRepl.png "Repl allows export of python files")
+
+## Copying code into local file
 
 You can also copy & paste the code into a local text file on your computer if needed:
 
@@ -168,6 +157,23 @@ Many courses' assignments require .zip files/folders containing all of the code 
 You can use the exercises/examples in the following sites for more practice. Keep in mind however that some content might not be covered in the lectures -- the idea is not to learn new things, but to practice using what you have learned from the lectures to solve the problems there.
 
 You can visit [CodingBat](https://codingbat.com/python), [LearnPython](https://www.learnpython.org/) or [PythonFromScratch UWaterloo](https://open.cs.uwaterloo.ca/python-from-scratch/6/).
+
+
+<sl-divider style="--width: 4px;"></sl-divider>
+
+# Accessing CSIL labs
+
+SFU has Computer Labs accessible by all SFU computing students. CSIL are open to all students registered in a computing science (CMPT) course. Information and FAQs on CSIL can be accessed on the [CSIL webpage](http://www.sfu.ca/computing/about/support/csil.html)
+
+- [Directions to the CSIL in Burnaby and Surrey ](http://www.sfu.ca/computing/about/support/csil/csil-directions.html)
+- [Getting Started for CMPT Undergrads](http://www.sfu.ca/computing/about/support/getting-started.html)
+- [General FAQ with regards to CSIL](http://www.sfu.ca/computing/about/support/csil/general.html)
+- [CSIL Policies](http://www.sfu.ca/computing/about/support/csil/policies.html)
+
+*TIP: The SFU Snap app has a room location feature and can be used to locate CSIL. View the official SFU app suite [here](http://www.sfu.ca/apps.html).*
+
+# Peer Tutoring
+SFU CS also provides a [peer tutoring](https://www.sfu.ca/computing/current-students/undergraduate-students/student-resources/cs_peer_tutoring1.html) program to provide extra support in learning difficult concepts or assignments. Peer tutors can be accessed both remote and in person.
 
 
 <!--### Past assignments
