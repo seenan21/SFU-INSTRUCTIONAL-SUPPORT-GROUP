@@ -134,10 +134,10 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 ## Past exams
 
-- [Midterm 1 Review Spring 2018](./CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf)
-- [Midterm 2 Review Spring 2018](./CMPT%20120/CMPT120Midterm2ReviewSpring2018.pdf)
-- [Final Exam Coding Spring 2018](./CMPT%20120/CMPT120FinalSpring2018.pdf)
-- [Final Exam Practice with Solutions Summer 2019](./CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf)
+- [Midterm 1 Review Spring 2018](./CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf){:target="_blank"}
+- [Midterm 2 Review Spring 2018](./CMPT%20120/CMPT120Midterm2ReviewSpring2018.pdf){:target="_blank"}
+- [Final Exam Coding Spring 2018](./CMPT%20120/CMPT120FinalSpring2018.pdf){:target="_blank"}
+- [Final Exam Practice with Solutions Summer 2019](./CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf){:target="_blank"}
 - [Midterm Practice Fall 2022](./CMPT%20120/CMPT120MidtermSampleFall2022.pdf) [(Solutions)](./CMPT%20120/CMPT120MidtermSampleSolutionsFall2022.pdf)
 
 
@@ -145,8 +145,8 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 ### Python Textbooks
 
-- [How to think like a Computer Scientist - Learning With Python](./CMPT%20120/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf)
-- [Automate The Boring Stuff With Python](./CMPT%20120/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf)
+- [How to think like a Computer Scientist - Learning With Python](./CMPT%20120/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf){:target="_blank"}
+- [Automate The Boring Stuff With Python](./CMPT%20120/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf){:target="_blank"}
 - [Python Basics: A Practical Introduction to Python 3](https://static.realpython.com/python-basics-sample-chapters.pdf)
 - [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Advanced Guide to Python 3 Programming by John Hunt](https://warin.ca/ressources/books/2019_Book_AdvancedGuideToPython3Programm.pdf)
@@ -156,7 +156,7 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 You can use the exercises/examples in the following sites for more practice. Keep in mind however that some content might not be covered in the lectures -- the idea is not to learn new things, but to practice using what you have learned from the lectures to solve the problems there.
 
-You can visit [CodingBat](https://codingbat.com/python), [LearnPython](https://www.learnpython.org/) or [PythonFromScratch UWaterloo](https://open.cs.uwaterloo.ca/python-from-scratch/6/).
+You can visit [CodingBat](https://codingbat.com/python){:target="_blank"}, [LearnPython](https://www.learnpython.org/){:target="_blank"} or [PythonFromScratch UWaterloo](https://open.cs.uwaterloo.ca/python-from-scratch/6/){:target="_blank"}.
 
 
 <sl-divider style="--width: 4px;"></sl-divider>

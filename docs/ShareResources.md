@@ -6,11 +6,4 @@ nav_order: 4
 
 
 
-
-
-<a
-  href="https://www.dropbox.com/request/64EYKyPTMCRcWQSGKRd6"
-  class="dropbox-embed"
-  data-height="300px"
-  data-width="600px"
-></a>
+### Do you have resources that would benefit other SFU CMPT students? Please do share the benefits with all, you can upload by clicking [here](https://www.dropbox.com/request/64EYKyPTMCRcWQSGKRd6){:target="_blank"}
