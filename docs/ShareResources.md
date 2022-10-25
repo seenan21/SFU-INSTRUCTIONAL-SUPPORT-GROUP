@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Share resources
+title: Share Resources
 nav_order: 4
 ---
 
