@@ -4,9 +4,9 @@ title: CMPT 120
 parent: Course Resources
 ---
 
-
-{% include toTopBtn.html %}
 {% include head_custom.html %}
+{% include toTopBtn.html %}
+
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.83/dist/themes/light.css" />
@@ -18,19 +18,19 @@ parent: Course Resources
 <sl-tree>
         <sl-icon name="plus-square" slot="expand-icon"></sl-icon>
         <sl-icon name="dash-square" slot="collapse-icon"></sl-icon>
-    <sl-tree-item>
-    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#on-campus-help">CSIL and Peer Tutoring</a>
-    </sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#setting-up-python">Setting Up Python</a>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#installing-python">Installing Python </a></sl-tree-item>   
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#compiling-python-programs">Compiling Python Programs</a></sl-tree-item>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#recommended-python-ides"> Recommended Python IDEs</a></sl-tree-item>
     </sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Submitting Assignments</a>
-        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#saving-code-into-local-file">Downloading Repl Code</a></sl-tree-item>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#downloading-repl-code">Downloading Repl Code</a></sl-tree-item>
         <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#zipping-files">Zipping files</a></sl-tree-item>
     </sl-tree-item>
     <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources">Course Resources</a>
+    </sl-tree-item>
+     <sl-tree-item>
+    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#accessing-csil-labs">CSIL and Peer Tutoring</a>
     </sl-tree-item>
 </sl-tree>
 
