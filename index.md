@@ -8,8 +8,6 @@ has_children: false
 
 # CMPT 120 Student Support
 
-![SFU COMPUTING SCIENCE BUILDING](/images/1463773966245.jpg)
-
 
 {% include home_slides.html %}
 
