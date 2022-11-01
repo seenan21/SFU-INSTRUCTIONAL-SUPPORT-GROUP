@@ -91,7 +91,8 @@ The [Mu editor](https://codewith.mu/en/){:target="_blank"} is another free envir
 
 <sl-divider style="--width: 4px;"></sl-divider>
 
-# Submitting Assignments
+# Submitting Assignments <i class='fas fa-upload' style='font-size:24px'></i>
+
 
 
 ## Downloading Repl Code
