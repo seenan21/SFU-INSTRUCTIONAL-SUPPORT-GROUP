@@ -11,7 +11,7 @@ has_children: false
 ![SFU COMPUTING SCIENCE BUILDING](/images/1463773966245.jpg)
 
 
-
+{% include home_slides.html %}
 
 #### [*Course Resources*](https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/courseResources.html) 
 ##### Explore outlines, offerings and various resources curated for computing courses at SFU
