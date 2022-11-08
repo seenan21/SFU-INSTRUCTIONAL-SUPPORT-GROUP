@@ -134,26 +134,26 @@ Many courses' assignments require .zip files/folders containing all of the code 
 # Course Resources
 
 
-[**Python Cheat sheet**](./CMPT%20120/CMPT120PythonCheatSheet.pdf){:target="_blank"} <br>
+[**Python Cheat sheet**](./docs/courseresources/CMPT%20120/CMPT120PythonCheatSheet.pdf){:target="_blank"} <br>
 [**Python Style Guide**](https://legacy.python.org/dev/peps/pep-0008/#code-lay-out){:target="_blank"} <br>
 [**Python built-in Functions**](https://docs.python.org/3/library/functions.html){:target="_blank"}
 
 
 ## Past exams
 
-- [Midterm 1 Review Spring 2018](./CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf){:target="_blank"}
-- [Midterm 2 Review Spring 2018](./CMPT%20120/CMPT120Midterm2ReviewSpring2018.pdf){:target="_blank"}
-- [Final Exam Coding Spring 2018](./CMPT%20120/CMPT120FinalSpring2018.pdf){:target="_blank"}
-- [Final Exam Practice with Solutions Summer 2019](./CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf){:target="_blank"}
-- [Midterm Practice Fall 2022](./CMPT%20120/CMPT120MidtermSampleFall2022.pdf) [(Solutions)](./CMPT%20120/CMPT120MidtermSampleSolutionsFall2022.pdf)
+- [Midterm 1 Review Spring 2018](./docs/courseresources/CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf){:target="_blank"}
+- [Midterm 2 Review Spring 2018](./docs/courseresources/CMPT%20120/CMPT120Midterm2ReviewSpring2018.pdf){:target="_blank"}
+- [Final Exam Coding Spring 2018](./docs/courseresources/CMPT%20120/CMPT120FinalSpring2018.pdf){:target="_blank"}
+- [Final Exam Practice with Solutions Summer 2019](./docs/courseresources/CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf){:target="_blank"}
+- [Midterm Practice Fall 2022](./docs/courseresources/CMPT%20120/CMPT120MidtermSampleFall2022.pdf) ([Solutions](./docs/courseresources/CMPT%20120/CMPT120MidtermSampleSolutionsFall2022.pdf))
 
 
 ## Textbooks 
 
 ### Python Textbooks
 
-- [How to think like a Computer Scientist - Learning With Python](./CMPT%20120/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf){:target="_blank"}
-- [Automate The Boring Stuff With Python](./CMPT%20120/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf){:target="_blank"}
+- [How to think like a Computer Scientist - Learning With Python](./docs/courseresources/CMPT%20120/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf){:target="_blank"}
+- [Automate The Boring Stuff With Python](./docs/courseresources/CMPT%20120/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf){:target="_blank"}
 - [Python Basics: A Practical Introduction to Python 3](https://static.realpython.com/python-basics-sample-chapters.pdf)
 - [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Advanced Guide to Python 3 Programming by John Hunt](https://warin.ca/ressources/books/2019_Book_AdvancedGuideToPython3Programm.pdf)
