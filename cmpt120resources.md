@@ -36,8 +36,8 @@ parent: Course Resources
 
 <style>
     a::after {
-        content: " <sl-icon name="box-arrow-up-right"></sl-icon> ";
-    }
+    content: url('images/box-arrow-up-right.svg');
+}
 </style>
 
 
