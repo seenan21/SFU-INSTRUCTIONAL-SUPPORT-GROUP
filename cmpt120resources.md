@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CMPT 120 
-parent: Course Resources
+parent: Courses 
 ---
 
 {% include toTopBtn.html %}
@@ -167,6 +167,10 @@ You can use the exercises/examples in the following sites for more practice. Kee
 
 You can visit [CodingBat](https://codingbat.com/python){:target="_blank"}, [LearnPython](https://www.learnpython.org/){:target="_blank"} or [PythonFromScratch UWaterloo](https://open.cs.uwaterloo.ca/python-from-scratch/6/){:target="_blank"}.
 
+
+## Video Playlists on Python
+
+- [CS50 Harvard Python Playlist](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
 <sl-divider style="--width: 4px;"></sl-divider>
 

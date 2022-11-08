@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CMPT 125 Resources
-parent: Course Resources
+title: CMPT 125 
+parent: Courses
 ---
 
 

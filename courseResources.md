@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course Resources
+title: Courses
 nav_order: 2
 has_children: true
 ---
