@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CMPT 120 Landing Page
-nav_exclude: true
+nav_exclude: false
 ---
 
 
