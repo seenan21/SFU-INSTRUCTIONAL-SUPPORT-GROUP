@@ -35,8 +35,10 @@ parent: Course Resources
 
 
 <style>
-    a::after {
+    p a::after {
     content: url('images/box-arrow-up-right.svg');
+    height: 0.5 em;
+    width: 0.5 em;
 }
 </style>
 
