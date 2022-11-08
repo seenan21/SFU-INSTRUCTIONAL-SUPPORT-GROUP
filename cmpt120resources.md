@@ -4,7 +4,6 @@ title: CMPT 120
 parent: Course Resources
 ---
 
-{% include head_custom.html %}
 {% include toTopBtn.html %}
 
 
