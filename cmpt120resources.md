@@ -34,7 +34,11 @@ parent: Course Resources
 </sl-tree>
 
 
-
+<style>
+    a::after {
+        content: " <sl-icon name="box-arrow-up-right"></sl-icon> ";
+    }
+</style>
 
 
 
