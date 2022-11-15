@@ -4,10 +4,8 @@ footer_content: "Copyright &copy; 2022 SFU"
 
 
 
-# Google Analytics Tracking (optional)
-ga-tracking: G-ZDXPF7GDG7
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
+ga-tracking: G-ZDXPF7GDG7
 
 
 callouts:
