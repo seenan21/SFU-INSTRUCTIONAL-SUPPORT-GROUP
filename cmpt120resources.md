@@ -165,7 +165,7 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 You can use the exercises/examples in the following sites for more practice. Keep in mind however that some content might not be covered in the lectures -- the idea is not to learn new things, but to practice using what you have learned from the lectures to solve the problems there.
 
-You can visit [CodingBat](https://codingbat.com/python){:target="_blank"}, [LearnPython](https://www.learnpython.org/){:target="_blank"} or [PythonFromScratch UWaterloo](https://open.cs.uwaterloo.ca/python-from-scratch/6/){:target="_blank"}.
+You can visit [CodingBat](https://codingbat.com/python){:target="_blank"}, [LearnPython](https://www.learnpython.org/){:target="_blank"} or [PythonFromScratch UWaterloo](https://open.cs.uwaterloo.ca/python-from-scratch/){:target="_blank"}.
 
 
 ## Video Playlists on Python
