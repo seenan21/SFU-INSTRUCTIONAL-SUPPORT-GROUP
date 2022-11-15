@@ -9,6 +9,5 @@ The code for the favicon is in the _includes folder named head_custom.html. For 
 
 ## Google analytics
 
-To enable google analytics, ensure the ga-tracking in the _config.yml file has your google analytics measurement ID. 
-Example: `ga-tracking: G-ZDXPF7GDG7`
+To enable google analytics, go to head_custom.html in the _includes folder and replace the google measurement ID tag in the script with the ID of your Google analytics account.
 
