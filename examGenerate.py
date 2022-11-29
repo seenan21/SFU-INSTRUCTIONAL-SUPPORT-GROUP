@@ -1,7 +1,7 @@
 import os
 
-f = open("myfile.md", "w")
-f.write("--- \nlayout: default \ntitle: Exams \nnav_order: 6 \nhas_children: false \n---\n")
+f = open("Exams.md", "w")
+f.write("--- \nlayout: default \ntitle: Exams \nnav_order: 4 \nhas_children: false \n---\n")
 f.write("# Exams\n\n")
 
 
