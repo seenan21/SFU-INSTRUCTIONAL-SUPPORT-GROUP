@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-nav_order: 1
+title: examstest
+nav_order: 10
 has_children: false
 ---
 
@@ -9,7 +9,7 @@ has_children: false
 
 # CMPT 120
 
-- [Midterm 1 Solutions 2022](./exams/CMPT%20120)
+- [Midterm 1 Solutions 2022](./exams/CMPT%20120/CMPT120%202022Fall%20CodingMidtermSample%20T.Donaldson.pdf){:target="_blank"}
 
 test
 
