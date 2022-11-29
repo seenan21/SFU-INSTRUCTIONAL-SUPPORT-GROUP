@@ -10,6 +10,7 @@ has_children: false
 # CMPT 120
 
 - [Midterm 1 Solutions 2022](./exams/CMPT%20120/CMPT120%202022Fall%20CodingMidtermSample%20T.Donaldson.pdf){:target="_blank"}
+- [bruh](./exams/CMPT%20310/CMPT310%20Summer2019%20Midterm%20T.Donaldson.pdf)
 
 test
 
