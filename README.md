@@ -27,6 +27,7 @@ Some of the styling of the theme has been modified and can be found in the custo
 The `_includes` directory also contains other HTML files that can be "included" into a page's header or footer, more on how it works can be read here: https://jekyllrb.com/docs/includes/. These HTML files can be included when creating the markdown files of the pages you are to make for the site. There are some already in the current `_includes` directory:
 
 - toTopBtn.html allows for a button that is placed on the bottom right of the webpage that scrolls user to the top of the page when clicked on. Example can be seen when viewing the CMPT 120 page.
+- 
 - home_slides.html is just html code that allows for the an automatic slide show of pictures used for decoration of the home page.
 - nav_footer_custom.thml allows for one to include custom text for the footer of the nav bar
 

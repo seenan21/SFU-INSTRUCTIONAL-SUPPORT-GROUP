@@ -6,7 +6,7 @@ parent: Courses
 
 {% include toTopBtn.html %}
 {% include links_arrow.html %}
-    
+
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.83/dist/themes/light.css" />
@@ -34,15 +34,6 @@ parent: Courses
     </sl-tree-item>
 </sl-tree>
 
-
-<style>
-    p a::after {
-    content: url('images/box-arrow-up-right.svg');
-    height: 0.25 em;
-    width: 0.25 em;
-    background-size: contain;
-}
-</style>
 
 
 
