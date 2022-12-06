@@ -18,19 +18,19 @@ parent: Courses
 <sl-tree>
         <sl-icon name="plus-square" slot="expand-icon"></sl-icon>
         <sl-icon name="dash-square" slot="collapse-icon"></sl-icon>
-    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#setting-up-python">Setting Up Python</a>
-        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#installing-python">Installing Python </a></sl-tree-item>   
-        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#compiling-python-programs">Compiling Python Programs</a></sl-tree-item>
-        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#recommended-python-ides"> Recommended Python IDEs</a></sl-tree-item>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#setting-up-python">Setting Up Python</a>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#installing-python">Installing Python </a></sl-tree-item>   
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#compiling-python-programs">Compiling Python Programs</a></sl-tree-item>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#recommended-python-ides"> Recommended Python IDEs</a></sl-tree-item>
     </sl-tree-item>
-    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#assignment-downloadsubmission">Submitting Assignments</a>
-        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#downloading-repl-code">Downloading Repl Code</a></sl-tree-item>
-        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#zipping-files">Zipping files</a></sl-tree-item>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#assignment-downloadsubmission">Submitting Assignments</a>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#downloading-repl-code">Downloading Repl Code</a></sl-tree-item>
+        <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#zipping-files">Zipping files</a></sl-tree-item>
     </sl-tree-item>
-    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#course-resources">Course Resources</a>
+    <sl-tree-item><a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#course-resources">Course Resources</a>
     </sl-tree-item>
      <sl-tree-item>
-    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/docs/courseresources/cmpt120resources.html#accessing-csil-labs">CSIL and Peer Tutoring</a>
+    <a href="https://seenan21.github.io/SFU-INSTRUCTIONAL-SUPPORT-GROUP/cmpt120resources.html#accessing-csil-labs">CSIL and Peer Tutoring</a>
     </sl-tree-item>
 </sl-tree>
 
@@ -97,7 +97,7 @@ The [Mu editor](https://codewith.mu/en/){:target="_blank"} is another free envir
 
 If code is written on the online IDE Repl, Repl allows for python program files to be exported as a ZIP.
 
-![Repl export of python files](./CMPT%20120/extractingFromRepl.png "Repl allows export of python files")
+![Repl export of python files](./docs/courseresources/CMPT%20120/extractingFromRepl.png "Repl allows export of python files")
 
 ## Copying code into local file
 
@@ -131,16 +131,6 @@ Many courses' assignments require .zip files/folders containing all of the code 
 [**Python built-in Functions**](https://docs.python.org/3/library/functions.html){:target="_blank"}
 
 
-## Past exams
-
-- [Midterm 1 Review Spring 2018](./docs/courseresources/CMPT%20120/CMPT120Midterm1ReviewSpring2018.pdf){:target="_blank"}
-- [Midterm 2 Review Spring 2018](./docs/courseresources/CMPT%20120/CMPT120Midterm2ReviewSpring2018.pdf){:target="_blank"}
-- [Final Exam Coding Spring 2018](./docs/courseresources/CMPT%20120/CMPT120FinalSpring2018.pdf){:target="_blank"}
-- [Final Exam Practice with Solutions Summer 2019](./docs/courseresources/CMPT%20120/CMPT120PracticeExamSolutionsSummer2019.pdf){:target="_blank"}
-- [Sample Coding Midterm Fall 2022](./docs/courseresources/CMPT%20120/CMPT120CodingMidtermSampleFall2022.pdf) ([Solutions](./docs/courseresources/CMPT%20120/CMPT120CodingMidtermSampleSolutionsFall2022.pdf))
-- [Mini Midterm Fall 2022](./docs/courseresources/CMPT%20120/CMPT120MiniMidtermFall2022.pdf) ([Solutions](./docs/courseresources/CMPT%20120/CMPT120MiniMidtermSolutionsFall2022.pdf))
-- [Midterm 1 Solutions 2022](./docs/courseresources/CMPT%20120/CMPT120Midterm1SolutionsFall2022.pdf)
-
 
 ## Textbooks 
 
@@ -148,10 +138,10 @@ Many courses' assignments require .zip files/folders containing all of the code 
 
 - [How to think like a Computer Scientist - Learning With Python](./docs/courseresources/CMPT%20120/Python%20Textbooks/TextbookPython%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf){:target="_blank"}
 - [Automate The Boring Stuff With Python](./docs/courseresources/CMPT%20120/Python%20Textbooks/TextbookPython%20-%20AutomateTheBoringStuffWithPython.pdf){:target="_blank"}
-- [Python Basics: A Practical Introduction to Python 3](https://static.realpython.com/python-basics-sample-chapters.pdf)
-- [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-- [Advanced Guide to Python 3 Programming by John Hunt](https://warin.ca/ressources/books/2019_Book_AdvancedGuideToPython3Programm.pdf)
-- [Introduction to Programming in Python: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/python/home/)
+- [Python Basics: A Practical Introduction to Python 3](https://static.realpython.com/python-basics-sample-chapters.pdf){:target="_blank"}
+- [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf){:target="_blank"}
+- [Advanced Guide to Python 3 Programming by John Hunt](https://warin.ca/ressources/books/2019_Book_AdvancedGuideToPython3Programm.pdf){:target="_blank"}
+- [Introduction to Programming in Python: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/python/home/){:target="_blank"}
 
 ## Extra Python Coding Practice
 

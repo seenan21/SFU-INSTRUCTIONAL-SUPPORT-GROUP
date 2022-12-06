@@ -27,7 +27,7 @@ Some of the styling of the theme has been modified and can be found in the custo
 The `_includes` directory also contains other HTML files that can be "included" into a page's header or footer, more on how it works can be read here: https://jekyllrb.com/docs/includes/. These HTML files can be included when creating the markdown files of the pages you are to make for the site. There are some already in the current `_includes` directory:
 
 - toTopBtn.html allows for a button that is placed on the bottom right of the webpage that scrolls user to the top of the page when clicked on. Example can be seen when viewing the CMPT 120 page.
-- 
+- links_arrow.html is included in webpages in which you want there to be small icon present beside each link telling the user it will lead them to open up an external page.
 - home_slides.html is just html code that allows for the an automatic slide show of pictures used for decoration of the home page.
 - nav_footer_custom.thml allows for one to include custom text for the footer of the nav bar
 
@@ -46,6 +46,7 @@ Some of the important things to learn:
 - You can choose to have a table of contents for your page if necessary, comes as a component with the theme.
 - Other components from the theme can be incorporated.
 
+## Directories and Pages
 
 ### Exams 
 
@@ -60,6 +61,8 @@ In order to avoid extra work it would take to edit and update the exams' markdow
 Some things to keep in mind when interacting with the Exam Bank:
 - The names of each exam follow a certain convention that should be followed to ensure everything remains easy. "CMPT### date ExamType Professor". Each separate word should be capitalized, for example "FinalExam" or "PracticeMidterm". The date follows year-month-day format, if there is no specific date, instead you can put "undated", or at the minimum the "TermYear" in place of the date.
 - Whenver a new exam is acquired, ensure to rename accordingly and put it in the correct folder. Also remember to update the information on the excel sheet that is keeping track of all the exams in the exam bank.
+
+###
 
 ### Favicon
 
@@ -76,7 +79,7 @@ You can simply follow these instructions: https://www.youtube.com/watch?v=Dr6pSd
 
 You can set up moderation for the comments through your disqus site settings and also add other moderators for the site if necessary.
 
-## Pages and Directories
+
 
 
 
