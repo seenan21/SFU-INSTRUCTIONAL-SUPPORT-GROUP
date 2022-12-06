@@ -9,14 +9,13 @@ parent: Courses
 # CMPT 125
 {: .no_toc }
 
-<!--
+
 ## Table of contents
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
-*//
--->
+
 ## Past exams
 
 - [Midterm Fall 2018](/docs/courseresources/CMPT%20125/CMPT125MidtermFall2018.pdf)  [(Solutions)](/docs/courseresources/CMPT%20125/CMPT125MidtermSolFall2018.pdf)

@@ -1,4 +1,5 @@
 import os
+import re
 
 f = open("Exams.md", "w")
 f.write("--- \nlayout: default \ntitle: Exams \nnav_order: 4 \nhas_children: false \n---\n")
@@ -20,9 +21,14 @@ for folder in folderList:
         filePath = folderPath +"/" + file   #filepath = link to file
         filePath = filePath.replace(" ", "%20")
 
-        file = file.replace(".pdf", "")     #file = name of exam
+        file_name = file.replace(".pdf", "")     #file = name of exam
+        first_word_in_file_name = file_name.split()[0] # Gets first word in file name
+        file_name = file.replace(first_word_in_file_name+" ", "") # Removes first word in file name, the CMPT number
 
-        f.write("- [" + file + "]")
+
+        file_name = re.sub(r"\B([A-Z])", r" \1", file_name) # Creates Spacing between words
+
+        f.write("- [" + file_name + "]")
         f.write("(" + filePath + ")")
         f.write("{:target=\"_blank\"}\n")
 
