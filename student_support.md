@@ -53,6 +53,7 @@ Both IDEs and text editors are advantageous for different purposes. The benefit 
 |[Eclipse](https://www.eclipse.org/getting-started/) | - IDE for any programming language with an available plug-in<br> - Supports Python (PyDev plug-in), C/C++ (CDT plug-in) <br> - Popular for Java development |
 |[IntelliJ](https://www.jetbrains.com/idea/)| - Really great IDE specific to Java <br> - Has great testing and debugging tools|
 |[Replit](https://replit.com/)| - Free, collaborative, in-browser IDE <br> - Support for 50+ languages (including Python, C++)<br> - GitHub integration which allows you to import GitHub repos<br> - API & plugins|
+|Mu editor](https://codewith.mu/en/){:target="_blank"} | - A extremely simple Python editor for beginner programmers|
 
 
 

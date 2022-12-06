@@ -79,6 +79,10 @@ You can simply follow these instructions: https://www.youtube.com/watch?v=Dr6pSd
 
 You can set up moderation for the comments through your disqus site settings and also add other moderators for the site if necessary.
 
+### File sharing
+
+There is share_resources.md that simply contains a link to a drobbox in which files can be dropped into. Simply replace the link withthe link of the dropbox folder you will be requesting files from.
+
 
 
 
