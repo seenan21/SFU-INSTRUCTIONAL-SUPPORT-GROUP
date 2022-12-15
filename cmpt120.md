@@ -96,7 +96,7 @@ The [Mu editor](https://codewith.mu/en/){:target="_blank"} is another free envir
 
 If code is written on the online IDE Repl, Repl allows for python program files to be exported as a ZIP. This can later be submitted to sfu coursys or canvas, whatever your professor is using to collect coding assignments.
 
-![Repl export of python files](./docs/courseresources/CMPT%20120/extractingFromRepl.png "Repl allows export of python files")
+![Repl export of python files](./courseresources/CMPT%20120/extractingFromRepl.png "Repl allows export of python files")
 
 ## Copying code into local file
 

@@ -18,5 +18,5 @@ has_children: false
 - [2017 Spring Midterm T.Donaldson.pdf](./exams/CMPT%20135/CMPT135%202017Spring%20Midterm%20T.Donaldson.pdf){:target="_blank"}
 
 ## CMPT 310
-- [Summer2019 Midterm T.Donaldson.pdf](./exams/CMPT%20310/CMPT310%20Summer2019%20Midterm%20T.Donaldson.pdf){:target="_blank"}
+- [2019 Summer Midterm T.Donaldson.pdf](./exams/CMPT%20310/CMPT310%202019Summer%20Midterm%20T.Donaldson.pdf){:target="_blank"}
 

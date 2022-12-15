@@ -14,7 +14,7 @@ How to set up the website and pre-requisites of knowleddge that should be known:
 
 The deployment of this website relies heavily on the relationship between Jekyll and Github Pages, which can be read about here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll. There is no need to install Ruby or Jekyll on your local machine and we could derive the benefits of jekyll simply by using hosting our site through Github Pages. A good understanding of how Jekyll works and generates static pages and posts from markdown files using the Liquid templating language would help with modifying the theme and improving the site.
 
-The theme that was chosen to be used for our website was the [Just The Docs theme](https://github.com/just-the-docs/just-the-docs). It is very simple and it allows for searching to quickly find what you are looking for in the website. You should go through the [Just The Docs documentations](https://just-the-docs.github.io/just-the-docs/) to understand how the pages for the webpage are to be structured, how to customize features and also how to use some of the UI components that comes with the theme.
+The theme that was chosen to be used for our website was the Just The Docs theme (https://github.com/just-the-docs/just-the-docs). It is very simple and it allows for searching to quickly find what you are looking for in the website. You should go through the Just The Docs documentations https://just-the-docs.github.io/just-the-docs/) to understand how the pages for the webpage are to be structured, how to customize features and also how to use some of the UI components that comes with the theme.
 
 ### Overriding the Just The Docs Theme
 
@@ -46,6 +46,13 @@ Some of the important things to learn:
 - You can choose to have a table of contents for your page if necessary, comes as a component with the theme.
 - Other components from the theme can be incorporated.
 
+### Markdown Tips and Tricks
+
+It is a great idea to have fully understand how markdown syntax works and that HTML/CSS/JS code can easily be injected within it. For this website, each external link causes a new tab to open making it easier for the user to return to where it once was. Everything that is done, the user experience must be the first thing that is thought of before implementing it.
+
+-You can do that in Markdown simply by adding after a link. {:target="_blank"}
+
+
 ## Directories and Pages
 
 ### Exams 
@@ -56,21 +63,30 @@ The Exams directory contains all of the exam pdf files that would be accessible 
 
 In order to avoid extra work it would take to edit and update the exams' markdown file when maintaining the website, a python script was written in which it automatically write the markdown file with the appropriate links, linking exams to the pdf files contianed in the Exams directory. Simply execute the python script on your local machine and it should automatically generate the exams page based on the contents of the exams directory.
 
-#### Maintanence of Exam Bank
+#### Maintanence of the Exam Bank
 
 Some things to keep in mind when interacting with the Exam Bank:
 - The names of each exam follow a certain convention that should be followed to ensure everything remains easy. "CMPT### date ExamType Professor". Each separate word should be capitalized, for example "FinalExam" or "PracticeMidterm". The date follows year-month-day format, if there is no specific date, instead you can put "undated", or at the minimum the "TermYear" in place of the date.
 - Whenver a new exam is acquired, ensure to rename accordingly and put it in the correct folder. Also remember to update the information on the excel sheet that is keeping track of all the exams in the exam bank.
 
-###
+
+## Website Features
+
+### Shoelace Components
+
+Some Shoelace components (https://shoelace.style/) were used and experimented with in our pages. For example, since the default size of the table of contents was not adjusted for from the theme we used, instead, the shoe lace tree items components was used in cmpt120.md for the construction of the table of contents.(The links were manually copied from the hooks created at the generation of the jekyll site then put in as reference into the tree items).
+
+The shoelace divider component was also utilized in the cmpt120.md to help separate chunks of information.
+
+Feel free to use/add any other shoelace components, all that is required is to link at the top of the markdown file linking to the shoelace style library.
 
 ### Favicon
 
-The code for the favicon is in the _includes folder named head_custom.html. For the favicon to be present in every page, you must ensure every doc is present in the root directory, not in any other subdirectory, it was the only to go around the bug we found when using the theme for now.
+The code for the favicon is in the _includes folder named head_custom.html. **For the favicon to be present in every page, you must ensure every doc is present in the root directory, not in any other subdirectory**, it was the only to go around the bug we found when using this theme for now.
 
 ### Google analytics
 
-To enable google analytics, go to head_custom.html in the _includes folder and replace the google measurement ID tag in the script with the ID of your Google analytics account. There are some issues with this
+To enable google analytics, go to head_custom.html in the _includes folder and replace the google measurement ID tag in the script with the ID of your Google analytics account. There are some issues with this and needs to be looked into.
 
 ### Disqus comments
 
@@ -81,7 +97,7 @@ You can set up moderation for the comments through your disqus site settings and
 
 ### File sharing
 
-There is share_resources.md that simply contains a link to a drobbox in which files can be dropped into. Simply replace the link withthe link of the dropbox folder you will be requesting files from.
+There is share_resources.md that simply contains a link to a drobbox in which files can be dropped into. Simply replace the link with the link of the dropbox folder you will be requesting files from to receive user submitted material.
 
 
 
